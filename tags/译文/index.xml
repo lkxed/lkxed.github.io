@@ -10,14 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 31 Mar 2022 15:07:31 +0800</lastBuildDate><atom:link href="/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 08:50:00 +0800</lastBuildDate><atom:link href="/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>什么是端口转发</title>
-      <link>/posts/what-is-port-forwarding/</link>
-      <pubDate>Thu, 31 Mar 2022 15:07:31 +0800</pubDate>
+      <link>/posts/what-port-forwarding/</link>
+      <pubDate>Thu, 31 Mar 2022 08:50:00 +0800</pubDate>
       
-      <guid>/posts/what-is-port-forwarding/</guid>
+      <guid>/posts/what-port-forwarding/</guid>
       <description>本文介绍了几种端口转发最常见的使用场景。</description>
+    </item>
+    
+    <item>
+      <title>妈妈与 Linux 的周年纪念</title>
+      <link>/posts/mom-switch-linux/</link>
+      <pubDate>Tue, 29 Mar 2022 10:32:00 +0800</pubDate>
+      
+      <guid>/posts/mom-switch-linux/</guid>
+      <description>有了 Linux，即便是新手用户，也能通过大量熟悉的应用程序获得流畅、精致的桌面体验。</description>
     </item>
     
   </channel>
