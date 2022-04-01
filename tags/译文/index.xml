@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 31 Mar 2022 08:50:00 +0800</lastBuildDate><atom:link href="/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 08:30:22 +0800</lastBuildDate><atom:link href="/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zorin OS：新手乐园</title>
+      <link>/posts/why-zorin-os-beginners/</link>
+      <pubDate>Fri, 01 Apr 2022 08:30:22 +0800</pubDate>
+      
+      <guid>/posts/why-zorin-os-beginners/</guid>
+      <description>对于初学者来说，Zorin OS 是一个绝佳的选择。本文将说明我们认为 Zorin OS 是理想选择的 5 个理由。</description>
+    </item>
+    
     <item>
       <title>什么是端口转发</title>
       <link>/posts/what-port-forwarding/</link>
