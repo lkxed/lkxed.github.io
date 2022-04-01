@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/linux/</loc>
+    <loc>https://lkxed.github.io/tags/linux/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/tags/zorin-os/</loc>
+    <loc>https://lkxed.github.io/tags/zorin-os/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/posts/why-zorin-os-beginners/</loc>
+    <loc>https://lkxed.github.io/posts/why-zorin-os-beginners/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://lkxed.github.io/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://lkxed.github.io/posts/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lkxed.github.io/tags/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/tags/%E7%AE%80%E4%BB%8B/</loc>
+    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/tags/%E8%AF%91%E6%96%87/</loc>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
-    <loc>/posts/what-port-forwarding/</loc>
+    <loc>https://lkxed.github.io/posts/what-port-forwarding/</loc>
     <lastmod>2022-03-31T08:50:00+08:00</lastmod>
   </url><url>
-    <loc>/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <loc>https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2022-03-31T08:50:00+08:00</lastmod>
   </url><url>
-    <loc>/posts/mom-switch-linux/</loc>
+    <loc>https://lkxed.github.io/posts/mom-switch-linux/</loc>
     <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
-    <loc>/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://lkxed.github.io/categories/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://lkxed.github.io/series/</loc>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://lkxed.github.io/archives/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://lkxed.github.io/search/</loc>
   </url>
 </urlset>

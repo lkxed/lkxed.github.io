@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文章 on 六开箱</title>
-    <link>/posts/</link>
+    <link>https://lkxed.github.io/posts/</link>
     <description>Recent content in 文章 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 01 Apr 2022 08:30:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Apr 2022 08:30:22 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zorin OS：新手乐园</title>
-      <link>/posts/why-zorin-os-beginners/</link>
+      <link>https://lkxed.github.io/posts/why-zorin-os-beginners/</link>
       <pubDate>Fri, 01 Apr 2022 08:30:22 +0800</pubDate>
       
-      <guid>/posts/why-zorin-os-beginners/</guid>
+      <guid>https://lkxed.github.io/posts/why-zorin-os-beginners/</guid>
       <description>对于初学者来说，Zorin OS 是一个绝佳的选择。本文将说明我们认为 Zorin OS 是理想选择的 5 个理由。</description>
     </item>
     
     <item>
       <title>什么是端口转发</title>
-      <link>/posts/what-port-forwarding/</link>
+      <link>https://lkxed.github.io/posts/what-port-forwarding/</link>
       <pubDate>Thu, 31 Mar 2022 08:50:00 +0800</pubDate>
       
-      <guid>/posts/what-port-forwarding/</guid>
+      <guid>https://lkxed.github.io/posts/what-port-forwarding/</guid>
       <description>本文介绍了几种端口转发最常见的使用场景。</description>
     </item>
     
     <item>
       <title>妈妈与 Linux 的周年纪念</title>
-      <link>/posts/mom-switch-linux/</link>
+      <link>https://lkxed.github.io/posts/mom-switch-linux/</link>
       <pubDate>Tue, 29 Mar 2022 10:32:00 +0800</pubDate>
       
-      <guid>/posts/mom-switch-linux/</guid>
+      <guid>https://lkxed.github.io/posts/mom-switch-linux/</guid>
       <description>有了 Linux，即便是新手用户，也能通过大量熟悉的应用程序获得流畅、精致的桌面体验。</description>
     </item>
     
