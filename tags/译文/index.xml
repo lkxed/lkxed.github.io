@@ -13,7 +13,7 @@
       <pubDate>Fri, 01 Apr 2022 08:30:22 +0800</pubDate>
       
       <guid>https://lkxed.github.io/posts/why-zorin-os-beginners/</guid>
-      <description>对于初学者来说，Zorin OS 是一个绝佳的选择。本文将说明我们认为 Zorin OS 是理想选择的 5 个理由。</description>
+      <description>对于 Linux 初学者来说，Zorin OS 是一个绝佳的选择。在本文中，我将列举 5 个理由来说明。</description>
     </item>
     
     <item>
@@ -23,6 +23,15 @@
       
       <guid>https://lkxed.github.io/posts/what-port-forwarding/</guid>
       <description>本文介绍了几种端口转发最常见的使用场景。</description>
+    </item>
+    
+    <item>
+      <title>Creating Lists Groovy Java</title>
+      <link>https://lkxed.github.io/posts/creating-lists-groovy-java/</link>
+      <pubDate>Tue, 29 Mar 2022 21:40:17 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/creating-lists-groovy-java/</guid>
+      <description>首先在 Java 中创建并初始化一个整数列表，然后在 Groovy 中做同样的事。</description>
     </item>
     
     <item>
