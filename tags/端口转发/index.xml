@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>端口转发 on 六开箱</title>
-    <link>/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</link>
+    <link>https://lkxed.github.io/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</link>
     <description>Recent content in 端口转发 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 31 Mar 2022 08:50:00 +0800</lastBuildDate><atom:link href="/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 08:50:00 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>什么是「端口转发」</title>
-      <link>/posts/what-port-forwarding/</link>
+      <link>https://lkxed.github.io/posts/what-port-forwarding/</link>
       <pubDate>Thu, 31 Mar 2022 08:50:00 +0800</pubDate>
       
-      <guid>/posts/what-port-forwarding/</guid>
+      <guid>https://lkxed.github.io/posts/what-port-forwarding/</guid>
       <description>本文介绍了几种端口转发最常见的使用场景。</description>
     </item>
     

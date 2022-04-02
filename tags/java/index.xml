@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Java on 六开箱</title>
-    <link>/tags/java/</link>
+    <link>https://lkxed.github.io/tags/java/</link>
     <description>Recent content in Java on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 29 Mar 2022 21:40:17 +0800</lastBuildDate><atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 21:40:17 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groovy 对比 Java：创建并初始化 List</title>
-      <link>/posts/creating-lists-groovy-java/</link>
+      <link>https://lkxed.github.io/posts/creating-lists-groovy-java/</link>
       <pubDate>Tue, 29 Mar 2022 21:40:17 +0800</pubDate>
       
-      <guid>/posts/creating-lists-groovy-java/</guid>
+      <guid>https://lkxed.github.io/posts/creating-lists-groovy-java/</guid>
       <description>首先在 Java 中创建并初始化一个整型列表，然后在 Groovy 中做同样的事。</description>
     </item>
     

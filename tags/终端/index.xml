@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>终端 on 六开箱</title>
-    <link>/tags/%E7%BB%88%E7%AB%AF/</link>
+    <link>https://lkxed.github.io/tags/%E7%BB%88%E7%AB%AF/</link>
     <description>Recent content in 终端 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 24 Mar 2022 11:18:31 +0800</lastBuildDate><atom:link href="/tags/%E7%BB%88%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Mar 2022 11:18:31 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BB%88%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xonsh = Bash &#43; Python</title>
-      <link>/posts/xonsh-shell/</link>
+      <link>https://lkxed.github.io/posts/xonsh-shell/</link>
       <pubDate>Thu, 24 Mar 2022 11:18:31 +0800</pubDate>
       
-      <guid>/posts/xonsh-shell/</guid>
+      <guid>https://lkxed.github.io/posts/xonsh-shell/</guid>
       <description>最受欢迎的 shell 是什么？我猜你会回答 bash 或者 zsh，没错，的确如此。 UNIX 和 Linux 系统上有许多可用的 shell，包括 Bash、Ksh、Zsh、Fish 等等。 最近，我碰到了另外一个 shell，它结合了 Python 和 bash，还蛮特别的。</description>
     </item>
     

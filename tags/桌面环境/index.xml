@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>桌面环境 on 六开箱</title>
-    <link>/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/</link>
+    <link>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/</link>
     <description>Recent content in 桌面环境 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Mar 2022 09:16:09 +0800</lastBuildDate><atom:link href="/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Mar 2022 09:16:09 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GNOME 42 发布：深色模式、新的截图界面</title>
-      <link>/posts/gnome-42-release/</link>
+      <link>https://lkxed.github.io/posts/gnome-42-release/</link>
       <pubDate>Fri, 25 Mar 2022 09:16:09 +0800</pubDate>
       
-      <guid>/posts/gnome-42-release/</guid>
+      <guid>https://lkxed.github.io/posts/gnome-42-release/</guid>
       <description>GNOME 42 终于到来了，它带来了急需的视觉升级和功能改进。</description>
     </item>
     
