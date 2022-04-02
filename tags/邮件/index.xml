@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>邮件 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</link>
+    <description>Recent content in 邮件 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 02 Apr 2022 09:06:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thunderbird 102 发布：7 个新特性</title>
+      <link>https://lkxed.github.io/posts/thunderbird-102-features/</link>
+      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/thunderbird-102-features/</guid>
+      <description>Thunderbird 102 将带来有用的新功能以及 UI/UX 升级。在此查看其中最精彩的内容！</description>
+    </item>
+    
+  </channel>
+</rss>
