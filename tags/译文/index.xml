@@ -70,5 +70,14 @@
       <description>GNOME 42 终于到来了，它带来了急需的视觉升级和功能改进。</description>
     </item>
     
+    <item>
+      <title>Xonsh = Bash &#43; Python</title>
+      <link>https://lkxed.github.io/posts/xonsh-shell/</link>
+      <pubDate>Thu, 24 Mar 2022 11:18:31 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/xonsh-shell/</guid>
+      <description>最受欢迎的 shell 是什么？我猜你会回答 bash 或者 zsh，没错，的确如此。 UNIX 和 Linux 系统上有许多可用的 shell，包括 Bash、Ksh、Zsh、Fish 等等</description>
+    </item>
+    
   </channel>
 </rss>
