@@ -40,7 +40,7 @@
       <pubDate>Thu, 24 Mar 2022 11:18:31 +0800</pubDate>
       
       <guid>https://lkxed.github.io/posts/xonsh-shell/</guid>
-      <description>最受欢迎的 shell 是什么？我猜你会回答 bash 或者 zsh，没错，的确如此。 UNIX 和 Linux 系统上有许多可用的 shell，包括 Bash、Ksh、Zsh、Fish 等等</description>
+      <description>最受欢迎的 shell 是什么？我猜你会回答 bash 或者 zsh，没错，的确如此。 UNIX 和 Linux 系统上有许多可用的 shell，包括 Bash、Ksh、Zsh、Fish 等等。 最近，我碰到了另外一个 shell，它结合了 Python 和 bash，还蛮特别的。</description>
     </item>
     
   </channel>
