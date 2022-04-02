@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>六开箱</title>
-    <link>/</link>
-    <description>Recent content on 六开箱</description>
+    <title>Linux 中国 on 六开箱</title>
+    <link>/series/linux-%E4%B8%AD%E5%9B%BD/</link>
+    <description>Recent content in Linux 中国 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 02 Apr 2022 09:06:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Apr 2022 09:06:51 +0800</lastBuildDate><atom:link href="/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thunderbird 102 发布：7 个新特性</title>
       <link>/posts/thunderbird-102-features/</link>
@@ -60,8 +60,6 @@
       <guid>/posts/reasons-to-try-threema/</guid>
       <description>Threema 是一个优质的开源通讯软件，专注于安全和隐私，提供了一个去中心的基础设施。本文介绍了尝试它的 7 个理由。</description>
     </item>
-    
-    
     
   </channel>
 </rss>
