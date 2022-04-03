@@ -115,5 +115,14 @@
       <description>Ubuntu 重新设计了它的标志，但是并非每个人都会喜欢它。</description>
     </item>
     
+    <item>
+      <title>五个提升你的 Git 水平的命令</title>
+      <link>https://lkxed.github.io/posts/5-git-commands/</link>
+      <pubDate>Thu, 17 Mar 2022 11:06:00 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/5-git-commands/</guid>
+      <description>将这些命令加入到你的工作流中，使 Git 发挥更大的作用。</description>
+    </item>
+    
   </channel>
 </rss>

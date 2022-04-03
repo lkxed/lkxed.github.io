@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on 六开箱</title>
+    <link>https://lkxed.github.io/tags/git/</link>
+    <description>Recent content in Git on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 17 Mar 2022 11:06:00 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>五个提升你的 Git 水平的命令</title>
+      <link>https://lkxed.github.io/posts/5-git-commands/</link>
+      <pubDate>Thu, 17 Mar 2022 11:06:00 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/5-git-commands/</guid>
+      <description>将这些命令加入到你的工作流中，使 Git 发挥更大的作用。</description>
+    </item>
+    
+  </channel>
+</rss>
