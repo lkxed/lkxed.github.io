@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lkxed.github.io/tags/grub/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/linux/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/what-is-grub/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/thunderbird/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
@@ -11,32 +38,11 @@
     <loc>https://lkxed.github.io/posts/thunderbird-102-features/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/linux/</loc>
-    <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/zorin-os/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>

@@ -6,7 +6,43 @@
     <description>Recent content in 标签 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 02 Apr 2022 09:06:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRUB</title>
+      <link>https://lkxed.github.io/tags/grub/</link>
+      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/grub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://lkxed.github.io/tags/linux/</link>
+      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>简介</title>
+      <link>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>译文</title>
+      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
+      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Thunderbird</title>
       <link>https://lkxed.github.io/tags/thunderbird/</link>
@@ -26,38 +62,11 @@
     </item>
     
     <item>
-      <title>简介</title>
-      <link>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</link>
-      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>译文</title>
-      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
-      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>邮件</title>
       <link>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</link>
       <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://lkxed.github.io/tags/linux/</link>
-      <pubDate>Fri, 01 Apr 2022 08:30:22 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
