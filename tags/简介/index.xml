@@ -6,16 +6,7 @@
     <description>Recent content in 简介 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Apr 2022 20:53:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
-      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
-      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
-      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
-    </item>
-    
+    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>什么是「GRUB」</title>
       <link>https://lkxed.github.io/posts/what-is-grub/</link>
@@ -23,15 +14,6 @@
       
       <guid>https://lkxed.github.io/posts/what-is-grub/</guid>
       <description>“GNU GRUB（简称 “GRUB”）是一个来自 GNU 项目的启动引导程序。 GRUB 是多启动规范的实现，它允许用户可以在计算机内同时拥有多个操作系统，并在计算机启动时选择希望运行的操作系统。”</description>
-    </item>
-    
-    <item>
-      <title>Thunderbird 102 发布：7 个新特性</title>
-      <link>https://lkxed.github.io/posts/thunderbird-102-features/</link>
-      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/thunderbird-102-features/</guid>
-      <description>Thunderbird 102 将带来有用的新功能以及 UI/UX 升级。在此查看其中最精彩的内容！</description>
     </item>
     
     <item>
@@ -59,24 +41,6 @@
       
       <guid>https://lkxed.github.io/posts/reasons-to-try-threema/</guid>
       <description>Threema 是一个优质的开源通讯软件，专注于安全和隐私，提供了一个去中心的基础设施。本文介绍了尝试它的 7 个理由。</description>
-    </item>
-    
-    <item>
-      <title>Clear Linux：首个支持 GNOME 42 的发行版</title>
-      <link>https://lkxed.github.io/posts/clear-linux-gnome-42/</link>
-      <pubDate>Sat, 26 Mar 2022 22:22:38 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/clear-linux-gnome-42/</guid>
-      <description>击败了 Arch 和 Fedora，Clear Linux 的最新版本提供了 GNOME 42 的稳定版本。</description>
-    </item>
-    
-    <item>
-      <title>GNOME 42 发布：深色模式、新的截图界面</title>
-      <link>https://lkxed.github.io/posts/gnome-42-release/</link>
-      <pubDate>Fri, 25 Mar 2022 09:16:09 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/gnome-42-release/</guid>
-      <description>GNOME 42 终于到来了，它带来了急需的视觉升级和功能改进。</description>
     </item>
     
     <item>

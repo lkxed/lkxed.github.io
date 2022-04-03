@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>版本发布 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+    <description>Recent content in 版本发布 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 03 Apr 2022 08:49:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
+      <pubDate>Sun, 03 Apr 2022 08:49:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
+      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird 102 发布：7 个新特性</title>
+      <link>https://lkxed.github.io/posts/thunderbird-102-features/</link>
+      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/thunderbird-102-features/</guid>
+      <description>Thunderbird 102 将带来有用的新功能以及 UI/UX 升级。在此查看其中最精彩的内容！</description>
+    </item>
+    
+    <item>
+      <title>Clear Linux：首个支持 GNOME 42 的发行版</title>
+      <link>https://lkxed.github.io/posts/clear-linux-gnome-42/</link>
+      <pubDate>Sat, 26 Mar 2022 22:22:38 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/clear-linux-gnome-42/</guid>
+      <description>击败了 Arch 和 Fedora，Clear Linux 的最新版本提供了 GNOME 42 的稳定版本。</description>
+    </item>
+    
+    <item>
+      <title>GNOME 42 发布：深色模式、新的截图界面</title>
+      <link>https://lkxed.github.io/posts/gnome-42-release/</link>
+      <pubDate>Fri, 25 Mar 2022 09:16:09 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-42-release/</guid>
+      <description>GNOME 42 终于到来了，它带来了急需的视觉升级和功能改进。</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 有了一个「怪怪的」新标志</title>
+      <link>https://lkxed.github.io/posts/ubuntu-new-logo/</link>
+      <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/ubuntu-new-logo/</guid>
+      <description>Ubuntu 重新设计了它的标志，但是并非每个人都会喜欢它。</description>
+    </item>
+    
+  </channel>
+</rss>

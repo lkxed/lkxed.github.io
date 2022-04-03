@@ -6,16 +6,7 @@
     <description>Recent content on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Apr 2022 20:53:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
-      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
-      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
-      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
-    </item>
-    
+    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>什么是「GRUB」</title>
       <link>https://lkxed.github.io/posts/what-is-grub/</link>
@@ -23,6 +14,15 @@
       
       <guid>https://lkxed.github.io/posts/what-is-grub/</guid>
       <description>“GNU GRUB（简称 “GRUB”）是一个来自 GNU 项目的启动引导程序。 GRUB 是多启动规范的实现，它允许用户可以在计算机内同时拥有多个操作系统，并在计算机启动时选择希望运行的操作系统。”</description>
+    </item>
+    
+    <item>
+      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
+      <pubDate>Sun, 03 Apr 2022 08:49:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
+      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
     </item>
     
     <item>
@@ -104,6 +104,15 @@
       
       <guid>https://lkxed.github.io/posts/xonsh-shell/</guid>
       <description>最受欢迎的 shell 是什么？我猜你会回答 bash 或者 zsh，没错，的确如此。 UNIX 和 Linux 系统上有许多可用的 shell，包括 Bash、Ksh、Zsh、Fish 等等。 最近，我碰到了另外一个 shell，它结合了 Python 和 bash，还蛮特别的。</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 有了一个「怪怪的」新标志</title>
+      <link>https://lkxed.github.io/posts/ubuntu-new-logo/</link>
+      <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/ubuntu-new-logo/</guid>
+      <description>Ubuntu 重新设计了它的标志，但是并非每个人都会喜欢它。</description>
     </item>
     
     
