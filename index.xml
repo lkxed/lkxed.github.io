@@ -6,7 +6,16 @@
     <description>Recent content on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 20:53:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
+      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
+    </item>
+    
     <item>
       <title>什么是「GRUB」</title>
       <link>https://lkxed.github.io/posts/what-is-grub/</link>

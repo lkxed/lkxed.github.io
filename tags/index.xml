@@ -6,29 +6,47 @@
     <description>Recent content in 标签 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 20:53:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GRUB</title>
-      <link>https://lkxed.github.io/tags/grub/</link>
-      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      <title>Deepin</title>
+      <link>https://lkxed.github.io/tags/deepin/</link>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
       
-      <guid>https://lkxed.github.io/tags/grub/</guid>
+      <guid>https://lkxed.github.io/tags/deepin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
       <link>https://lkxed.github.io/tags/linux/</link>
-      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>人脸解锁</title>
+      <link>https://lkxed.github.io/tags/%E4%BA%BA%E8%84%B8%E8%A7%A3%E9%94%81/</link>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E4%BA%BA%E8%84%B8%E8%A7%A3%E9%94%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度操作系统</title>
+      <link>https://lkxed.github.io/tags/%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>简介</title>
       <link>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</link>
-      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</guid>
       <description></description>
@@ -37,9 +55,18 @@
     <item>
       <title>译文</title>
       <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
-      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      <pubDate>Sun, 03 Apr 2022 20:53:02 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GRUB</title>
+      <link>https://lkxed.github.io/tags/grub/</link>
+      <pubDate>Sun, 03 Apr 2022 11:19:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/grub/</guid>
       <description></description>
     </item>
     
