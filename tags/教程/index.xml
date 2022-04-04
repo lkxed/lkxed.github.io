@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>使用 awk 统计字母频率</title>
+      <link>https://lkxed.github.io/posts/gawk-letter-game/</link>
+      <pubDate>Sun, 20 Mar 2022 08:51:36 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gawk-letter-game/</guid>
+      <description>编写一个 awk 脚本来找到一组单词中出现次数最多（和最少）的单词。</description>
+    </item>
+    
+    <item>
       <title>五个提升你的 Git 水平的小技巧</title>
       <link>https://lkxed.github.io/posts/5-git-commands/</link>
       <pubDate>Thu, 17 Mar 2022 11:06:00 +0800</pubDate>
