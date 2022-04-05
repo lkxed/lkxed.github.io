@@ -6,7 +6,16 @@
     <description>Recent content in Linux on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 03 Apr 2022 11:19:51 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 15:13:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
+      <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>
+      <pubDate>Tue, 05 Apr 2022 15:13:37 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</guid>
+      <description>Sourcegraph 是一个快速且功能强大的代码搜索和导航引擎。它跨越多个代码托管商，索引了数百万个开源存储库。</description>
+    </item>
+    
     <item>
       <title>「GRUB」简介</title>
       <link>https://lkxed.github.io/posts/what-is-grub/</link>
