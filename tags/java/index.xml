@@ -34,5 +34,14 @@
       <description>Java 和 Groovy 中的 Map 都是非常通用的，它允许&lt;ruby&gt;关键字&lt;rt&gt;key&lt;/rt&gt;&lt;/ruby&gt;和&lt;ruby&gt;值&lt;rt&gt;value&lt;/rt&gt;&lt;/ruby&gt;为任意类型，只要继承了 &lt;code&gt;Object&lt;/code&gt; 类即可。</description>
     </item>
     
+    <item>
+      <title>maven-plugin-shade：介绍与使用</title>
+      <link>https://lkxed.github.io/posts/maven-plugin-shade/</link>
+      <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/maven-plugin-shade/</guid>
+      <description>使用 maven-plugin-shade 打包你的项目依赖，生成完整的可运行 jar 包。</description>
+    </item>
+    
   </channel>
 </rss>

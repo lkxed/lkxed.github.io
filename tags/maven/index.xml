@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maven on 六开箱</title>
+    <link>https://lkxed.github.io/tags/maven/</link>
+    <description>Recent content in Maven on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 25 Mar 2021 16:43:24 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/maven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>maven-plugin-shade：介绍与使用</title>
+      <link>https://lkxed.github.io/posts/maven-plugin-shade/</link>
+      <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/maven-plugin-shade/</guid>
+      <description>使用 maven-plugin-shade 打包你的项目依赖，生成完整的可运行 jar 包。</description>
+    </item>
+    
+  </channel>
+</rss>

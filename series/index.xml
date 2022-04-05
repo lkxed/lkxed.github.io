@@ -25,5 +25,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Maven</title>
+      <link>https://lkxed.github.io/series/maven/</link>
+      <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/series/maven/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

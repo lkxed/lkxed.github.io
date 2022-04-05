@@ -196,5 +196,14 @@
       <description>使用 Kafka 官方提供的性能测试脚本 &lt;code&gt;kafka-producer-perf-test.sh&lt;/code&gt; 和 &lt;code&gt;kafka-consumer-perf-test.sh&lt;/code&gt;，获取集群的吞吐量和时延信息。</description>
     </item>
     
+    <item>
+      <title>maven-plugin-shade：介绍与使用</title>
+      <link>https://lkxed.github.io/posts/maven-plugin-shade/</link>
+      <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/maven-plugin-shade/</guid>
+      <description>使用 maven-plugin-shade 打包你的项目依赖，生成完整的可运行 jar 包。</description>
+    </item>
+    
   </channel>
 </rss>
