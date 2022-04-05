@@ -187,6 +187,15 @@
       <description>将这些小技巧运用到你的工作流中，使 Git 发挥更大的作用。</description>
     </item>
     
+    <item>
+      <title>Kafka 性能测试脚本：介绍与使用</title>
+      <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>
+      <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-perf-test-scripts/</guid>
+      <description>使用 Kafka 官方提供的性能测试脚本 &lt;code&gt;kafka-producer-perf-test.sh&lt;/code&gt; 和 &lt;code&gt;kafka-consumer-perf-test.sh&lt;/code&gt;，获取集群的吞吐量和时延信息。</description>
+    </item>
+    
     
     
   </channel>
