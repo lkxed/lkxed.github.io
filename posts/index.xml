@@ -211,7 +211,7 @@
       <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
       
       <guid>https://lkxed.github.io/posts/mysqld-safe/</guid>
-      <description>在 Unix 机器上，MySQL 官方推荐使用 [&lt;code&gt;mysqld_safe&lt;/code&gt;][1] 启动 [&lt;code&gt;mysqld&lt;/code&gt;][2] 服务。&lt;code&gt;mysqld_safe&lt;/code&gt; 增加了一些安全特性，比如它会在遇到错误时重启 &lt;code&gt;mysqld&lt;/code&gt; 服务，并把运行时信息记录到 error log 中。</description>
+      <description>在 Unix 机器上，MySQL 官方推荐使用 &lt;code&gt;mysqld_safe&lt;/code&gt; 启动 &lt;code&gt;mysqld&lt;/code&gt; 服务。&lt;code&gt;mysqld_safe&lt;/code&gt; 增加了一些安全特性，比如它会在遇到错误时重启 &lt;code&gt;mysqld&lt;/code&gt; 服务，并把运行时信息记录到 error log 中。</description>
     </item>
     
   </channel>
