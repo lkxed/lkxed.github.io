@@ -8,7 +8,7 @@
     <language>zh-CN</language>
     <lastBuildDate>Thu, 25 Mar 2021 18:04:19 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kafka 性能测试脚本：介绍与使用</title>
+      <title>Kafka 性能测试脚本：简介与使用</title>
       <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>
       <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>
       
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>maven-plugin-shade：介绍与使用</title>
+      <title>maven-plugin-shade：简介与使用</title>
       <link>https://lkxed.github.io/posts/maven-plugin-shade/</link>
       <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
       
@@ -26,7 +26,7 @@
     </item>
     
     <item>
-      <title>mysqld_safe：介绍与使用</title>
+      <title>mysqld_safe：简介与使用</title>
       <link>https://lkxed.github.io/posts/mysqld-safe/</link>
       <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
       

@@ -8,7 +8,7 @@
     <language>zh-CN</language>
     <lastBuildDate>Thu, 25 Mar 2021 18:04:19 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/kafka/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kafka 性能测试脚本：介绍与使用</title>
+      <title>Kafka 性能测试脚本：简介与使用</title>
       <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>
       <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>
       

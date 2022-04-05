@@ -70,5 +70,32 @@
       <description>Computers4Christians 项目以定制发行版的形式进行了改革，该发行版为有基督教信仰的人提供了软件。</description>
     </item>
     
+    <item>
+      <title>Kafka 性能测试脚本：简介与使用</title>
+      <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>
+      <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-perf-test-scripts/</guid>
+      <description>使用 Kafka 官方提供的性能测试脚本 &lt;code&gt;kafka-producer-perf-test.sh&lt;/code&gt; 和 &lt;code&gt;kafka-consumer-perf-test.sh&lt;/code&gt;，获取集群的吞吐量和时延信息。</description>
+    </item>
+    
+    <item>
+      <title>maven-plugin-shade：简介与使用</title>
+      <link>https://lkxed.github.io/posts/maven-plugin-shade/</link>
+      <pubDate>Thu, 25 Mar 2021 16:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/maven-plugin-shade/</guid>
+      <description>使用 maven-plugin-shade 打包你的项目依赖，生成完整的可运行 jar 包。</description>
+    </item>
+    
+    <item>
+      <title>mysqld_safe：简介与使用</title>
+      <link>https://lkxed.github.io/posts/mysqld-safe/</link>
+      <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/mysqld-safe/</guid>
+      <description>在 Unix 机器上，MySQL 官方推荐使用 [&lt;code&gt;mysqld_safe&lt;/code&gt;][1] 启动 [&lt;code&gt;mysqld&lt;/code&gt;][2] 服务。&lt;code&gt;mysqld_safe&lt;/code&gt; 增加了一些安全特性，比如它会在遇到错误时重启 &lt;code&gt;mysqld&lt;/code&gt; 服务，并把运行时信息记录到 error log 中。</description>
+    </item>
+    
   </channel>
 </rss>
