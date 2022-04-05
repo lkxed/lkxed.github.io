@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MySQL on 六开箱</title>
+    <link>https://lkxed.github.io/tags/mysql/</link>
+    <description>Recent content in MySQL on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 25 Sep 2020 23:16:15 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mysqld_safe：介绍与使用</title>
+      <link>https://lkxed.github.io/posts/mysqld-safe/</link>
+      <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/mysqld-safe/</guid>
+      <description>在 Unix 机器上，MySQL 官方推荐使用 [&lt;code&gt;mysqld_safe&lt;/code&gt;][1] 启动 [&lt;code&gt;mysqld&lt;/code&gt;][2] 服务。&lt;code&gt;mysqld_safe&lt;/code&gt; 增加了一些安全特性，比如它会在遇到错误时重启 &lt;code&gt;mysqld&lt;/code&gt; 服务，并把运行时信息记录到 error log 中。</description>
+    </item>
+    
+  </channel>
+</rss>

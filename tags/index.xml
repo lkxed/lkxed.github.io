@@ -493,5 +493,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>MySQL</title>
+      <link>https://lkxed.github.io/tags/mysql/</link>
+      <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysqld</title>
+      <link>https://lkxed.github.io/tags/mysqld/</link>
+      <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/mysqld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysqld_safe</title>
+      <link>https://lkxed.github.io/tags/mysqld_safe/</link>
+      <pubDate>Fri, 25 Sep 2020 23:16:15 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/mysqld_safe/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
