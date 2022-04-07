@@ -26,7 +26,7 @@
     <loc>https://lkxed.github.io/tags/</loc>
     <lastmod>2022-04-07T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/</loc>
+    <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/</loc>
     <lastmod>2022-04-07T08:53:22+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/series/</loc>
@@ -35,19 +35,13 @@
     <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-07T08:53:22+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/fedora/</loc>
-    <lastmod>2022-04-05T15:13:37+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/linux/</loc>
+    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
     <lastmod>2022-04-05T15:13:37+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/sourcegraph/</loc>
     <lastmod>2022-04-05T15:13:37+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</loc>
-    <lastmod>2022-04-05T15:13:37+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E4%BB%A3%E7%A0%81%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2022-04-05T15:13:37+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
@@ -59,9 +53,6 @@
     <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-05T15:13:37+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/ed/</loc>
-    <lastmod>2022-04-04T14:53:47+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/gnu/</loc>
     <lastmod>2022-04-04T14:53:47+08:00</lastmod>
   </url><url>
@@ -71,20 +62,8 @@
     <loc>https://lkxed.github.io/tags/%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
     <lastmod>2022-04-04T14:53:47+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/grub/</loc>
-    <lastmod>2022-04-03T11:19:51+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/what-is-grub/</loc>
     <lastmod>2022-04-03T11:19:51+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/deepin-os/</loc>
-    <lastmod>2022-04-03T08:49:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E4%BA%BA%E8%84%B8%E8%A7%A3%E9%94%81/</loc>
-    <lastmod>2022-04-03T08:49:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%B7%B1%E5%BA%A6%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-04-03T08:49:02+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/deepin-os-20-5-release/</loc>
     <lastmod>2022-04-03T08:49:02+08:00</lastmod>
@@ -92,25 +71,16 @@
     <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
     <lastmod>2022-04-03T08:49:02+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/thunderbird/</loc>
-    <lastmod>2022-04-02T09:06:51+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/thunderbird-102-features/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</loc>
     <lastmod>2022-04-02T09:06:51+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/zorin-os/</loc>
-    <lastmod>2022-04-01T08:30:22+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/why-zorin-os-beginners/</loc>
     <lastmod>2022-04-01T08:30:22+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/what-port-forwarding/</loc>
-    <lastmod>2022-03-31T08:50:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%AB%AF%E5%8F%A3%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2022-03-31T08:50:00+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C/</loc>
@@ -131,8 +101,8 @@
     <loc>https://lkxed.github.io/posts/mom-switch-linux/</loc>
     <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/threema/</loc>
-    <lastmod>2022-03-28T12:03:30+08:00</lastmod>
+    <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
+    <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/reasons-to-try-threema/</loc>
     <lastmod>2022-03-28T12:03:30+08:00</lastmod>
@@ -140,17 +110,11 @@
     <loc>https://lkxed.github.io/tags/%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/</loc>
     <lastmod>2022-03-28T12:03:30+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/clear-linux/</loc>
-    <lastmod>2022-03-26T22:22:38+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/clear-linux-gnome-42/</loc>
     <lastmod>2022-03-26T22:22:38+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/gnome-42-release/</loc>
     <lastmod>2022-03-25T09:16:09+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/xonsh/</loc>
-    <lastmod>2022-03-24T11:18:31+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/xonsh-shell/</loc>
     <lastmod>2022-03-24T11:18:31+08:00</lastmod>
@@ -159,21 +123,6 @@
     <lastmod>2022-03-24T11:18:31+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/open-source-guides-teachers/</loc>
-    <lastmod>2022-03-23T16:29:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/python/</loc>
-    <lastmod>2022-03-23T16:29:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/wordpress/</loc>
-    <lastmod>2022-03-23T16:29:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
-    <lastmod>2022-03-23T16:29:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%95%99%E5%B8%88/</loc>
-    <lastmod>2022-03-23T16:29:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
     <lastmod>2022-03-23T16:29:59+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/xml/</loc>
@@ -185,19 +134,7 @@
     <loc>https://lkxed.github.io/posts/creating-maps-groovy-java/</loc>
     <lastmod>2022-03-21T09:25:59+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/map/</loc>
-    <lastmod>2022-03-21T09:25:59+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/c4c-linux/</loc>
-    <lastmod>2022-03-21T08:40:28+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/c4c-linux-distro-revived/</loc>
-    <lastmod>2022-03-21T08:40:28+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/ubuntu/</loc>
-    <lastmod>2022-03-21T08:40:28+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E5%9F%BA%E7%9D%A3%E6%95%99/</loc>
     <lastmod>2022-03-21T08:40:28+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/awk/</loc>
@@ -206,17 +143,8 @@
     <loc>https://lkxed.github.io/posts/gawk-letter-game/</loc>
     <lastmod>2022-03-20T08:51:36+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E5%AD%97%E9%A2%91%E7%BB%9F%E8%AE%A1/</loc>
-    <lastmod>2022-03-20T08:51:36+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/logo/</loc>
-    <lastmod>2022-03-19T11:48:43+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/ubuntu-new-logo/</loc>
     <lastmod>2022-03-19T11:48:43+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/chrome/</loc>
-    <lastmod>2022-03-18T10:59:44+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/uninstall-chrome-from-ubuntu/</loc>
     <lastmod>2022-03-18T10:59:44+08:00</lastmod>
@@ -228,9 +156,6 @@
     <lastmod>2022-03-17T11:06:00+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/5-git-commands/</loc>
-    <lastmod>2022-03-17T11:06:00+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2022-03-17T11:06:00+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/kafka/</loc>
@@ -270,12 +195,6 @@
     <lastmod>2020-09-25T23:16:15+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/series/mysql/</loc>
-    <lastmod>2020-09-25T23:16:15+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/mysqld/</loc>
-    <lastmod>2020-09-25T23:16:15+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/mysqld_safe/</loc>
     <lastmod>2020-09-25T23:16:15+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/mysqld-safe/</loc>

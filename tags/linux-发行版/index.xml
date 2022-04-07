@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux 发行版 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</link>
+    <description>Recent content in Linux 发行版 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 05 Apr 2022 15:13:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
+      <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>
+      <pubDate>Tue, 05 Apr 2022 15:13:37 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</guid>
+      <description>Sourcegraph 是一个快速且功能强大的代码搜索和导航引擎。它跨越多个代码托管商，索引了数百万个开源存储库。</description>
+    </item>
+    
+    <item>
+      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
+      <pubDate>Sun, 03 Apr 2022 08:49:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
+      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
+    </item>
+    
+    <item>
+      <title>Zorin OS：新手的最佳选择</title>
+      <link>https://lkxed.github.io/posts/why-zorin-os-beginners/</link>
+      <pubDate>Fri, 01 Apr 2022 08:30:22 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/why-zorin-os-beginners/</guid>
+      <description>对于 Linux 初学者来说，Zorin OS 是一个绝佳的选择。在本文中，我将列举 5 个理由来说明。</description>
+    </item>
+    
+    <item>
+      <title>妈妈与 Linux 的「周年纪念」</title>
+      <link>https://lkxed.github.io/posts/mom-switch-linux/</link>
+      <pubDate>Tue, 29 Mar 2022 10:32:00 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/mom-switch-linux/</guid>
+      <description>有了 Linux，即便是新手用户，也能通过大量熟悉的应用程序获得流畅、精致的桌面体验。</description>
+    </item>
+    
+    <item>
+      <title>Clear Linux：首个支持 GNOME 42 的发行版</title>
+      <link>https://lkxed.github.io/posts/clear-linux-gnome-42/</link>
+      <pubDate>Sat, 26 Mar 2022 22:22:38 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/clear-linux-gnome-42/</guid>
+      <description>击败了 Arch 和 Fedora，Clear Linux 的最新版本提供了 GNOME 42 的稳定版本。</description>
+    </item>
+    
+    <item>
+      <title>C4C Ubuntu：基督教信徒的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/c4c-linux-distro-revived/</link>
+      <pubDate>Mon, 21 Mar 2022 08:40:28 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/c4c-linux-distro-revived/</guid>
+      <description>Computers4Christians 项目以定制发行版的形式进行了改革，该发行版为有基督教信仰的人提供了软件。</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 有了一个「怪怪的」新标志</title>
+      <link>https://lkxed.github.io/posts/ubuntu-new-logo/</link>
+      <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/ubuntu-new-logo/</guid>
+      <description>Ubuntu 重新设计了它的标志，但是并非每个人都会喜欢它。</description>
+    </item>
+    
+    <item>
+      <title>如何从 Ubuntu 中彻底卸载 Google Chrome</title>
+      <link>https://lkxed.github.io/posts/uninstall-chrome-from-ubuntu/</link>
+      <pubDate>Fri, 18 Mar 2022 10:59:44 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/uninstall-chrome-from-ubuntu/</guid>
+      <description>既然你已经不再使用 Google Chrome 了，那么，把它从 Ubuntu 系统中移除是一个明智的选择。</description>
+    </item>
+    
+  </channel>
+</rss>
