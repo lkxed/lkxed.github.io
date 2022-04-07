@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 Apr 2022 15:13:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 08:53:22 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gnome 43：开发计划</title>
+      <link>https://lkxed.github.io/posts/gnome-43-dev-plans/</link>
+      <pubDate>Thu, 07 Apr 2022 08:53:22 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-43-dev-plans/</guid>
+      <description>GNOME 43 及以后的开发计划令人振奋，以下是你可以期待的：……</description>
+    </item>
+    
     <item>
       <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
       <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>

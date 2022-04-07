@@ -6,7 +6,16 @@
     <description>Recent content in 桌面环境 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 25 Mar 2022 09:16:09 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 08:53:22 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gnome 43：开发计划</title>
+      <link>https://lkxed.github.io/posts/gnome-43-dev-plans/</link>
+      <pubDate>Thu, 07 Apr 2022 08:53:22 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-43-dev-plans/</guid>
+      <description>GNOME 43 及以后的开发计划令人振奋，以下是你可以期待的：……</description>
+    </item>
+    
     <item>
       <title>GNOME 42 发布：深色模式、新的截图界面</title>
       <link>https://lkxed.github.io/posts/gnome-42-release/</link>
