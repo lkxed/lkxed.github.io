@@ -6,7 +6,16 @@
     <description>Recent content in 简介 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 Apr 2022 15:13:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 11:36:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux 终端：新手指南</title>
+      <link>https://lkxed.github.io/posts/linux-terminal/</link>
+      <pubDate>Fri, 08 Apr 2022 11:36:55 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/linux-terminal/</guid>
+      <description>学习 Linux 终端命令、参数的区别，以及如何使用它们来控制你的计算机。</description>
+    </item>
+    
     <item>
       <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
       <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>

@@ -6,9 +6,18 @@
     <description>Recent content in Linux 中国 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 Apr 2022 08:53:22 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 11:36:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gnome 43：开发计划</title>
+      <title>Linux 终端：新手指南</title>
+      <link>https://lkxed.github.io/posts/linux-terminal/</link>
+      <pubDate>Fri, 08 Apr 2022 11:36:55 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/linux-terminal/</guid>
+      <description>学习 Linux 终端命令、参数的区别，以及如何使用它们来控制你的计算机。</description>
+    </item>
+    
+    <item>
+      <title>GNOME 43：开发计划</title>
       <link>https://lkxed.github.io/posts/gnome-43-dev-plans/</link>
       <pubDate>Thu, 07 Apr 2022 08:53:22 +0800</pubDate>
       
