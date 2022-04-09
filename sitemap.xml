@@ -2,13 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
+    <loc>https://lkxed.github.io/posts/linux-mint-21-annoucement/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/posts/linux-terminal/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
+    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-04-09T11:20:32+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/linux-terminal/</loc>
     <lastmod>2022-04-08T11:36:55+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
@@ -17,22 +38,10 @@
     <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-04-08T11:36:55+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-08T11:36:55+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E7%BB%88%E7%AB%AF/</loc>
-    <lastmod>2022-04-08T11:36:55+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-08T11:36:55+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/gnome/</loc>
@@ -46,9 +55,6 @@
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/</loc>
     <lastmod>2022-04-07T08:53:22+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
-    <lastmod>2022-04-05T15:13:37+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/sourcegraph/</loc>
     <lastmod>2022-04-05T15:13:37+08:00</lastmod>
@@ -72,9 +78,6 @@
     <lastmod>2022-04-03T11:19:51+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/deepin-os-20-5-release/</loc>
-    <lastmod>2022-04-03T08:49:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
     <lastmod>2022-04-03T08:49:02+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/thunderbird-102-features/</loc>

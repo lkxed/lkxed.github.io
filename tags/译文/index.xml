@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 Apr 2022 11:36:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 11:20:32 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Mint 21：代号、升级工具及更多内容</title>
+      <link>https://lkxed.github.io/posts/linux-mint-21-annoucement/</link>
+      <pubDate>Sat, 09 Apr 2022 11:20:32 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/linux-mint-21-annoucement/</guid>
+      <description>Mint 团队公布了即将到来的 Linux Mint 21 的代号、一个用于轻松升级的工具，以及令团队惊叹的 Warpinator 使用案例。</description>
+    </item>
+    
     <item>
       <title>Linux 终端：新手指南</title>
       <link>https://lkxed.github.io/posts/linux-terminal/</link>
