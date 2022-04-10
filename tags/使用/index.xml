@@ -6,7 +6,16 @@
     <description>Recent content in 使用 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 05 Apr 2022 15:13:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 11:00:47 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDE Ark：安装与使用</title>
+      <link>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</link>
+      <pubDate>Sun, 10 Apr 2022 11:00:47 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</guid>
+      <description>使用 KDE Ark 归档工具，在 KDE 上创建、检查和扩展压缩的档案。</description>
+    </item>
+    
     <item>
       <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
       <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>

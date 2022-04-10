@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>安装 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E5%AE%89%E8%A3%85/</link>
+    <description>Recent content in 安装 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 10 Apr 2022 11:00:47 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDE Ark：安装与使用</title>
+      <link>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</link>
+      <pubDate>Sun, 10 Apr 2022 11:00:47 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</guid>
+      <description>使用 KDE Ark 归档工具，在 KDE 上创建、检查和扩展压缩的档案。</description>
+    </item>
+    
+  </channel>
+</rss>

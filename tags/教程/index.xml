@@ -6,7 +6,16 @@
     <description>Recent content in 教程 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 Apr 2022 11:36:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 11:00:47 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDE Ark：安装与使用</title>
+      <link>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</link>
+      <pubDate>Sun, 10 Apr 2022 11:00:47 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/archives-files-linux-ark-kde/</guid>
+      <description>使用 KDE Ark 归档工具，在 KDE 上创建、检查和扩展压缩的档案。</description>
+    </item>
+    
     <item>
       <title>Linux 终端：新手指南</title>
       <link>https://lkxed.github.io/posts/linux-terminal/</link>
