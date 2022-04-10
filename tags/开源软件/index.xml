@@ -6,7 +6,16 @@
     <description>Recent content in 开源软件 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 08 Apr 2022 11:36:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 10:39:34 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vivaldi 5.2：增加了阅读列表面板和新隐私统计栏</title>
+      <link>https://lkxed.github.io/posts/vivaldi-5-2-release/</link>
+      <pubDate>Sun, 10 Apr 2022 10:39:34 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/vivaldi-5-2-release/</guid>
+      <description>Vivaldi 5.2 已经准备好了，它增加了新的功能，对桌面和移动用户更加有用。</description>
+    </item>
+    
     <item>
       <title>Linux 终端：新手指南</title>
       <link>https://lkxed.github.io/posts/linux-terminal/</link>
