@@ -8,12 +8,12 @@
     <language>zh-CN</language>
     <lastBuildDate>Sun, 10 Apr 2022 23:11:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Java String 源码阅读：搜索子串</title>
+      <title>Java String 源码阅读：查找子串</title>
       <link>https://lkxed.github.io/posts/java-string-search/</link>
       <pubDate>Sun, 10 Apr 2022 23:11:25 +0800</pubDate>
       
       <guid>https://lkxed.github.io/posts/java-string-search/</guid>
-      <description>Java 的 String 类是如何搜索某个给定的子串的呢？它使用了 KMP 算法吗？</description>
+      <description>Java 的 String 类是如何查找某个给定的子串的呢？它使用了 KMP 算法吗？</description>
     </item>
     
     <item>
