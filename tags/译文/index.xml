@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>我如何在 Linux 上把 Vim 配置为默认编辑器</title>
+      <link>https://lkxed.github.io/posts/configure-vim-default-editor/</link>
+      <pubDate>Fri, 15 Apr 2022 17:29:17 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/configure-vim-default-editor/</guid>
+      <description>Vim 是我最喜爱的编辑器。对于那些默认使用其他编辑器的程序，我对系统所做的这些改变可以使得 Vim 成为它们默认编辑器。</description>
+    </item>
+    
+    <item>
       <title>GNOME 42：如何启用深浅双主题壁纸</title>
       <link>https://lkxed.github.io/posts/dark-light-wallpaper-gnome/</link>
       <pubDate>Thu, 14 Apr 2022 08:16:46 +0800</pubDate>
