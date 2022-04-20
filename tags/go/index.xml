@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>代码搜索 on 六开箱</title>
-    <link>https://lkxed.github.io/tags/%E4%BB%A3%E7%A0%81%E6%90%9C%E7%B4%A2/</link>
-    <description>Recent content in 代码搜索 on 六开箱</description>
+    <title>Go on 六开箱</title>
+    <link>https://lkxed.github.io/tags/go/</link>
+    <description>Recent content in Go on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Apr 2022 22:29:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BB%A3%E7%A0%81%E6%90%9C%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 22:29:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gitbase：使用 SQL 探索 Git 仓库</title>
       <link>https://lkxed.github.io/posts/gitbase/</link>
