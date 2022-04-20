@@ -6,16 +6,7 @@
     <description>Recent content in 开源软件 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Apr 2022 22:29:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gitbase：使用 SQL 探索 Git 仓库</title>
-      <link>https://lkxed.github.io/posts/gitbase/</link>
-      <pubDate>Wed, 20 Apr 2022 22:29:23 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/posts/gitbase/</guid>
-      <description>Gitbase 是一个由 Go 驱动的开源项目，它使得我们可以在 Git 仓库上运行 SQL 查询。</description>
-    </item>
-    
+    <lastBuildDate>Fri, 15 Apr 2022 17:29:17 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我如何在 Linux 上把 Vim 配置为默认编辑器</title>
       <link>https://lkxed.github.io/posts/configure-vim-default-editor/</link>
@@ -23,6 +14,15 @@
       
       <guid>https://lkxed.github.io/posts/configure-vim-default-editor/</guid>
       <description>Vim 是我最喜爱的编辑器。对于那些默认使用其他编辑器的程序，我对系统所做的这些改变可以使得 Vim 成为它们默认编辑器。</description>
+    </item>
+    
+    <item>
+      <title>Gitbase：使用 SQL 探索 Git 仓库</title>
+      <link>https://lkxed.github.io/posts/gitbase/</link>
+      <pubDate>Wed, 13 Apr 2022 23:04:23 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gitbase/</guid>
+      <description>Gitbase 是一个由 Go 驱动的开源项目，它使得我们可以在 Git 仓库上运行 SQL 查询。</description>
     </item>
     
     <item>
