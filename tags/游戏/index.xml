@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>游戏 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 16 Apr 2022 09:56:31 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 年 10 款最佳的 Linux 独立 RPG 游戏</title>
+      <link>https://lkxed.github.io/posts/best-indie-rpg-games-linux/</link>
+      <pubDate>Sat, 16 Apr 2022 09:56:31 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/best-indie-rpg-games-linux/</guid>
+      <description>即使你只有一套入门级的游戏硬件也没有关系，大多数独立游戏在许多（甚至只有集成显卡的）计算机上都能正常工作。</description>
+    </item>
+    
+  </channel>
+</rss>
