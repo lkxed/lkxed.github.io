@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lkxed.github.io/</loc>
+    <loc>https://lkxed.github.io/tags/</loc>
     <lastmod>2022-04-11T13:18:26+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/series/%E5%85%B3%E4%BA%8E/</loc>
@@ -11,19 +11,19 @@
     <loc>https://lkxed.github.io/posts/about-its-intentions/</loc>
     <lastmod>2022-04-11T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-04-11T13:18:26+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-04-11T13:18:26+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-11T13:18:26+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
+    <loc>https://lkxed.github.io/</loc>
     <lastmod>2022-04-11T13:18:26+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2022-04-11T13:18:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-04-11T13:18:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
     <lastmod>2022-04-11T13:18:26+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/java/</loc>
@@ -47,9 +47,6 @@
     <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
     <lastmod>2022-04-10T11:00:47+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2022-04-10T11:00:47+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-04-10T11:00:47+08:00</lastmod>
   </url><url>
@@ -59,22 +56,25 @@
     <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-04-10T11:00:47+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/</loc>
+    <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
     <lastmod>2022-04-10T11:00:47+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-10T11:00:47+08:00</lastmod>
   </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/</loc>
+    <lastmod>2022-04-10T11:00:47+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/posts/vivaldi-5-2-release/</loc>
+    <lastmod>2022-04-10T10:39:34+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
     <lastmod>2022-04-10T10:39:34+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-04-10T10:39:34+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
-    <lastmod>2022-04-10T10:39:34+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
     <lastmod>2022-04-10T10:39:34+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/linux-mint-21-annoucement/</loc>
@@ -143,10 +143,10 @@
     <loc>https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2022-03-29T21:40:17+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/posts/mom-switch-linux/</loc>
+    <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
     <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
+    <loc>https://lkxed.github.io/posts/mom-switch-linux/</loc>
     <lastmod>2022-03-29T10:32:00+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/reasons-to-try-threema/</loc>
@@ -206,13 +206,13 @@
     <loc>https://lkxed.github.io/posts/kafka-perf-test-scripts/</loc>
     <lastmod>2021-03-25T18:04:19+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://lkxed.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2021-03-25T18:04:19+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
     <lastmod>2021-03-25T18:04:19+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%84%9A%E6%9C%AC/</loc>
+    <loc>https://lkxed.github.io/tags/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-03-25T18:04:19+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/maven/</loc>
