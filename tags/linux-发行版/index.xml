@@ -6,7 +6,16 @@
     <description>Recent content in Linux 发行版 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 Apr 2022 11:20:32 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Apr 2022 19:58:07 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AlmaLinux 9.0 测试版发布：与 RHEL 9 同步</title>
+      <link>https://lkxed.github.io/posts/almalinux-9-0-beta-release/</link>
+      <pubDate>Fri, 22 Apr 2022 19:58:07 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/almalinux-9-0-beta-release/</guid>
+      <description>AlmaLinux 9 Beta 发布了，跟上了最新的 RHEL 9，还有一些软件包的更新和变化。</description>
+    </item>
+    
     <item>
       <title>Linux Mint 21：代号、升级工具及更多内容</title>
       <link>https://lkxed.github.io/posts/linux-mint-21-annoucement/</link>
