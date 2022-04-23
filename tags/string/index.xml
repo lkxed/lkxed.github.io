@@ -6,7 +6,16 @@
     <description>Recent content in String on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 Apr 2022 23:11:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/string/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Apr 2022 11:59:43 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/string/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go string：正确删除子串</title>
+      <link>https://lkxed.github.io/posts/go-string-trim/</link>
+      <pubDate>Sat, 23 Apr 2022 11:59:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/go-string-trim/</guid>
+      <description>字符串操作有很多，删除指定子串是最常见的操作的之一。然而，面对各种不同的需求，它或许没有看起来的那么简单。</description>
+    </item>
+    
     <item>
       <title>Java String 源码阅读：查找子串</title>
       <link>https://lkxed.github.io/posts/java-string-search/</link>
