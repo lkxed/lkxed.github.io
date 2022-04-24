@@ -6,7 +6,16 @@
     <description>Recent content in 文章 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 Apr 2022 11:59:43 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 13:35:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis 持久化：RDB 与 AOF 的优缺点</title>
+      <link>https://lkxed.github.io/posts/redis-persistence-pros-cons/</link>
+      <pubDate>Sun, 24 Apr 2022 13:35:25 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redis-persistence-pros-cons/</guid>
+      <description>Redis 往磁盘里写入数据（持久化）的方式，包括了“仅追加文件”（AOF）和“快照”（RDB）两种，让我们一起来看看它们的优点与缺点吧！</description>
+    </item>
+    
     <item>
       <title>Go string：正确删除子串</title>
       <link>https://lkxed.github.io/posts/go-string-trim/</link>
