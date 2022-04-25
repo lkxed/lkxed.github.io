@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Apr 2022 19:58:07 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 12:14:42 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C 语言：发展简史</title>
+      <link>https://lkxed.github.io/posts/how-c-programming-language-has-grown/</link>
+      <pubDate>Mon, 25 Apr 2022 12:14:42 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/how-c-programming-language-has-grown/</guid>
+      <description>下面是我对 &lt;ruby&gt;布莱恩·克尼汉&lt;rt&gt;Brian Kernighan&lt;/rt&gt;&lt;/ruby&gt; 的采访，他（与 &lt;ruby&gt;丹尼斯·里奇&lt;rt&gt;Dennis Ritchie&lt;/rt&gt;&lt;/ruby&gt;）是《&lt;ruby&gt;C 程序设计语言&lt;rt&gt;The C Programming Language&lt;/rt&gt;&lt;/ruby&gt;》一书的共同作者，我们谈及了 C 语言及其 50 年的历史。</description>
+    </item>
+    
     <item>
       <title>AlmaLinux 9.0 测试版发布：与 RHEL 9 同步</title>
       <link>https://lkxed.github.io/posts/almalinux-9-0-beta-release/</link>

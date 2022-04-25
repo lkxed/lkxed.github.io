@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lkxed.github.io/tags/c/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/how-c-programming-language-has-grown/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/tags/redis/</loc>
     <lastmod>2022-04-24T13:35:25+08:00</lastmod>
   </url><url>
@@ -11,22 +41,7 @@
     <loc>https://lkxed.github.io/posts/redis-persistence-pros-cons/</loc>
     <lastmod>2022-04-24T13:35:25+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
     <lastmod>2022-04-24T13:35:25+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/go/</loc>
@@ -53,13 +68,7 @@
     <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
     <lastmod>2022-04-22T19:58:07+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-04-22T19:58:07+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
-    <lastmod>2022-04-22T19:58:07+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-22T19:58:07+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/disable-animations-cinnamon-desktop/</loc>
@@ -192,9 +201,6 @@
     <lastmod>2022-03-29T21:40:17+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/creating-lists-groovy-java/</loc>
-    <lastmod>2022-03-29T21:40:17+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2022-03-29T21:40:17+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/mom-switch-linux/</loc>
