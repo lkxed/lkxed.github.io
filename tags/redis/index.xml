@@ -6,7 +6,16 @@
     <description>Recent content in Redis on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 24 Apr 2022 13:35:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 19:52:43 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis 持久化：RDB 与 AOF 的工作原理及选用</title>
+      <link>https://lkxed.github.io/posts/redis-persistence-usage/</link>
+      <pubDate>Mon, 25 Apr 2022 19:52:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redis-persistence-usage/</guid>
+      <description>现在，我们已经知道 Redis 持久化的两种方式（RDB 与 AOF）的优缺点了。那么，我们该选用哪一种呢？</description>
+    </item>
+    
     <item>
       <title>Redis 持久化：RDB 与 AOF 的优缺点</title>
       <link>https://lkxed.github.io/posts/redis-persistence-pros-cons/</link>
