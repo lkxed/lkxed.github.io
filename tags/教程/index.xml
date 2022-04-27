@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>贡献开源：以非代码形式</title>
+      <link>https://lkxed.github.io/posts/contribute-without-code/</link>
+      <pubDate>Tue, 26 Apr 2022 19:01:55 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/contribute-without-code/</guid>
+      <description>事实上，有无穷无尽的方法来为开源做贡献，甚至有一些简单得超出你的想象，只要你用心去发现！</description>
+    </item>
+    
+    <item>
       <title>Redis 持久化：原理及使用</title>
       <link>https://lkxed.github.io/posts/redis-persistence-usage/</link>
       <pubDate>Mon, 25 Apr 2022 19:52:43 +0800</pubDate>
