@@ -6,7 +6,16 @@
     <description>Recent content in Redis on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 Apr 2022 19:52:43 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2022 09:13:18 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis 持久化：备份与恢复</title>
+      <link>https://lkxed.github.io/posts/redis-persistence-backup-recovery/</link>
+      <pubDate>Wed, 27 Apr 2022 09:13:18 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redis-persistence-backup-recovery/</guid>
+      <description>在实际生产中，无论我们多么地小心，意外总是会发生。很多意外是不可控的，如机房停电等。我们该如何备份 Redis 数据，并在遇到意外时把它恢复出来呢？</description>
+    </item>
+    
     <item>
       <title>Redis 持久化：原理及使用</title>
       <link>https://lkxed.github.io/posts/redis-persistence-usage/</link>
