@@ -6,7 +6,16 @@
     <description>Recent content in 使用 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 27 Apr 2022 09:13:18 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Apr 2022 15:34:21 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis 用例：批量加载数据</title>
+      <link>https://lkxed.github.io/posts/redis-bulk-loading/</link>
+      <pubDate>Thu, 28 Apr 2022 15:34:21 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redis-bulk-loading/</guid>
+      <description>使用 Redis 协议批量写入数据。</description>
+    </item>
+    
     <item>
       <title>Redis 持久化：备份与恢复</title>
       <link>https://lkxed.github.io/posts/redis-persistence-backup-recovery/</link>
