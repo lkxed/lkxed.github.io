@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lkxed.github.io/tags/go/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/go-build-options/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-04-30T17:21:04+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/tags/redis/</loc>
     <lastmod>2022-04-30T14:55:40+08:00</lastmod>
   </url><url>
@@ -9,24 +39,6 @@
     <lastmod>2022-04-30T14:55:40+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/redis-distributed-locks/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-04-30T14:55:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
     <lastmod>2022-04-30T14:55:40+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/redis-bulk-loading/</loc>
@@ -38,16 +50,10 @@
     <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-04-27T09:13:18+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-04-26T19:01:55+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
     <lastmod>2022-04-26T19:01:55+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/contribute-without-code/</loc>
-    <lastmod>2022-04-26T19:01:55+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-04-26T19:01:55+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/redis-persistence-usage/</loc>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2022-04-24T13:35:25+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/go/</loc>
-    <lastmod>2022-04-23T11:59:43+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/series/go/</loc>
     <lastmod>2022-04-23T11:59:43+08:00</lastmod>
