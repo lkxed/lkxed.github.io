@@ -8,12 +8,12 @@
     <language>zh-CN</language>
     <lastBuildDate>Sat, 30 Apr 2022 14:55:40 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Redis 用例：分布式锁</title>
-      <link>https://lkxed.github.io/posts/redis-distributed-locks/</link>
+      <title>Redis 分布式锁：Redlock 算法</title>
+      <link>https://lkxed.github.io/posts/redis-distributed-locks-redlock/</link>
       <pubDate>Sat, 30 Apr 2022 14:55:40 +0800</pubDate>
       
-      <guid>https://lkxed.github.io/posts/redis-distributed-locks/</guid>
-      <description>使用 Redis 来实现分布式锁。</description>
+      <guid>https://lkxed.github.io/posts/redis-distributed-locks-redlock/</guid>
+      <description>使用 Redis 和 Redlock 算法来实现分布式锁。</description>
     </item>
     
     <item>

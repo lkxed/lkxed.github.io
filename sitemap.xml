@@ -38,7 +38,7 @@
     <loc>https://lkxed.github.io/series/redis/</loc>
     <lastmod>2022-04-30T14:55:40+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/posts/redis-distributed-locks/</loc>
+    <loc>https://lkxed.github.io/posts/redis-distributed-locks-redlock/</loc>
     <lastmod>2022-04-30T14:55:40+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/redis-bulk-loading/</loc>
