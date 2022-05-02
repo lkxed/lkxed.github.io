@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 May 2022 18:06:47 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 22:56:50 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archinstall：新的菜单系统</title>
+      <link>https://lkxed.github.io/posts/archinstall-menu/</link>
+      <pubDate>Mon, 02 May 2022 22:56:50 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/archinstall-menu/</guid>
+      <description>Archinstall 让人们更容易上手 Arch Linux，也应该可以为经验丰富的 Linux 用户节省时间。你觉得呢？</description>
+    </item>
+    
     <item>
       <title>在 Python 中使用机器学习来检测钓鱼链接</title>
       <link>https://lkxed.github.io/posts/detect-phishing-python-machine-learning/</link>
