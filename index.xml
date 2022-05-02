@@ -6,7 +6,16 @@
     <description>Recent content on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Apr 2022 17:21:04 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 10:32:33 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于 Rust 的 Redox OS 0.7.0 发布：增强硬件支持</title>
+      <link>https://lkxed.github.io/posts/redox-os-0-7-0-release/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redox-os-0-7-0-release/</guid>
+      <description>Unix 风格的 Redox OS 0.7.0 发布了，它此次带来了几项改进，聚焦于在最广泛的硬件上启动。</description>
+    </item>
+    
     <item>
       <title>我最喜欢的 Go 构建选项</title>
       <link>https://lkxed.github.io/posts/go-build-options/</link>

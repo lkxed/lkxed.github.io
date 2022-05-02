@@ -6,7 +6,43 @@
     <description>Recent content in 标签 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Apr 2022 17:21:04 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 10:32:33 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux 发行版</title>
+      <link>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://lkxed.github.io/tags/rust/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>版本发布</title>
+      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>译文</title>
+      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Go</title>
       <link>https://lkxed.github.io/tags/go/</link>
@@ -31,15 +67,6 @@
       <pubDate>Sat, 30 Apr 2022 17:21:04 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>译文</title>
-      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
-      <pubDate>Sat, 30 Apr 2022 17:21:04 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
       <description></description>
     </item>
     
@@ -121,24 +148,6 @@
       <pubDate>Sat, 23 Apr 2022 11:59:43 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux 发行版</title>
-      <link>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</link>
-      <pubDate>Fri, 22 Apr 2022 19:58:07 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>版本发布</title>
-      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
-      <pubDate>Fri, 22 Apr 2022 19:58:07 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
       <description></description>
     </item>
     
