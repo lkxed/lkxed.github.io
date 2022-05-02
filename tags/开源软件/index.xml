@@ -6,7 +6,16 @@
     <description>Recent content in 开源软件 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 Apr 2022 17:29:17 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 10:27:44 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortwave 3.0 发布：用户界面更新、私人电台以及诸多改进</title>
+      <link>https://lkxed.github.io/posts/shortwave-3-0-release/</link>
+      <pubDate>Sun, 01 May 2022 10:27:44 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/shortwave-3-0-release/</guid>
+      <description>Shortwave 3.0 带来了急需的用户界面改进、添加私人电台的功能以及诸多升级。</description>
+    </item>
+    
     <item>
       <title>我如何在 Linux 上把 Vim 配置为默认编辑器</title>
       <link>https://lkxed.github.io/posts/configure-vim-default-editor/</link>
