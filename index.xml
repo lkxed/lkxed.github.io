@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Redis 数据类型：简介</title>
+      <link>https://lkxed.github.io/posts/redis-data-types/</link>
+      <pubDate>Sun, 01 May 2022 18:58:16 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redis-data-types/</guid>
+      <description>本文简单介绍了 Redis 支持的诸多数据类型。</description>
+    </item>
+    
+    <item>
       <title>Shortwave 3.0 发布：用户界面更新、私人电台以及诸多改进</title>
       <link>https://lkxed.github.io/posts/shortwave-3-0-release/</link>
       <pubDate>Sun, 01 May 2022 10:27:44 +0800</pubDate>
