@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>新闻 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</link>
+    <description>Recent content in 新闻 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 04 May 2022 20:26:52 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软加入开放 3D 基金会，参与开源 3D 开发</title>
+      <link>https://lkxed.github.io/posts/microsoft-joins-o3df/</link>
+      <pubDate>Wed, 04 May 2022 20:26:52 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/microsoft-joins-o3df/</guid>
+      <description>抱歉，我才发现这是一篇商业互捧的软文通稿……</description>
+    </item>
+    
+    <item>
+      <title>Archinstall：新的菜单系统</title>
+      <link>https://lkxed.github.io/posts/archinstall-menu/</link>
+      <pubDate>Mon, 02 May 2022 22:56:50 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/archinstall-menu/</guid>
+      <description>Archinstall 让人们更容易上手 Arch Linux，也应该可以为经验丰富的 Linux 用户节省时间。你觉得呢？</description>
+    </item>
+    
+    <item>
+      <title>基于 Rust 的 Redox OS 0.7.0 发布：增强硬件支持</title>
+      <link>https://lkxed.github.io/posts/redox-os-0-7-0-release/</link>
+      <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/redox-os-0-7-0-release/</guid>
+      <description>Unix 风格的 Redox OS 0.7.0 发布了，它此次带来了几项改进，聚焦于在最广泛的硬件上启动。</description>
+    </item>
+    
+    <item>
+      <title>Shortwave 3.0 发布：用户界面更新、私人电台以及诸多改进</title>
+      <link>https://lkxed.github.io/posts/shortwave-3-0-release/</link>
+      <pubDate>Sun, 01 May 2022 10:27:44 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/shortwave-3-0-release/</guid>
+      <description>Shortwave 3.0 带来了急需的用户界面改进、添加私人电台的功能以及诸多升级。</description>
+    </item>
+    
+    <item>
+      <title>AlmaLinux 9.0 测试版发布：与 RHEL 9 同步</title>
+      <link>https://lkxed.github.io/posts/almalinux-9-0-beta-release/</link>
+      <pubDate>Fri, 22 Apr 2022 19:58:07 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/almalinux-9-0-beta-release/</guid>
+      <description>AlmaLinux 9 Beta 发布了，跟上了最新的 RHEL 9，还有一些软件包的更新和变化。</description>
+    </item>
+    
+    <item>
+      <title>埃隆·马斯克：推特的算法应该开源</title>
+      <link>https://lkxed.github.io/posts/elon-musk-twitter-open-source/</link>
+      <pubDate>Wed, 20 Apr 2022 08:51:04 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/elon-musk-twitter-open-source/</guid>
+      <description>埃隆·马斯克希望推特开源他们的算法。这会促进言论自由吗？以下是他的说法。</description>
+    </item>
+    
+    <item>
+      <title>Vivaldi 5.2：新增阅读列表面板和新隐私统计栏</title>
+      <link>https://lkxed.github.io/posts/vivaldi-5-2-release/</link>
+      <pubDate>Sun, 10 Apr 2022 10:39:34 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/vivaldi-5-2-release/</guid>
+      <description>Vivaldi 5.2 已经准备好了，它增加了新的功能，对桌面和移动用户更加有用。</description>
+    </item>
+    
+    <item>
+      <title>Linux Mint 21：代号、升级工具及更多内容</title>
+      <link>https://lkxed.github.io/posts/linux-mint-21-annoucement/</link>
+      <pubDate>Sat, 09 Apr 2022 11:20:32 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/linux-mint-21-annoucement/</guid>
+      <description>Mint 团队公布了即将到来的 Linux Mint 21 的代号、一个用于轻松升级的工具，以及令团队惊叹的 Warpinator 使用案例。</description>
+    </item>
+    
+    <item>
+      <title>GNOME 43：开发计划</title>
+      <link>https://lkxed.github.io/posts/gnome-43-dev-plans/</link>
+      <pubDate>Thu, 07 Apr 2022 08:53:22 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-43-dev-plans/</guid>
+      <description>GNOME 43 及以后的开发计划令人振奋，以下是你可以期待的：……</description>
+    </item>
+    
+    <item>
+      <title>Sourcegraph：现已支持搜索 Fedora 仓库</title>
+      <link>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</link>
+      <pubDate>Tue, 05 Apr 2022 15:13:37 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/sourcegraph-fedora-repositories/</guid>
+      <description>Sourcegraph 是一个快速且功能强大的代码搜索和导航引擎。它跨越多个代码托管商，索引了数百万个开源存储库。</description>
+    </item>
+    
+    <item>
+      <title>深度操作系统：首个支持人脸解锁的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/deepin-os-20-5-release/</link>
+      <pubDate>Sun, 03 Apr 2022 08:49:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deepin-os-20-5-release/</guid>
+      <description>在提供现代桌面体验方面，深度已经占据了领先地位。</description>
+    </item>
+    
+    <item>
+      <title>Thunderbird 102 发布：7 个新特性</title>
+      <link>https://lkxed.github.io/posts/thunderbird-102-features/</link>
+      <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/thunderbird-102-features/</guid>
+      <description>Thunderbird 102 将带来有用的新功能以及 UI/UX 升级。在此查看其中最精彩的内容！</description>
+    </item>
+    
+    <item>
+      <title>Clear Linux：首个支持 GNOME 42 的发行版</title>
+      <link>https://lkxed.github.io/posts/clear-linux-gnome-42/</link>
+      <pubDate>Sat, 26 Mar 2022 22:22:38 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/clear-linux-gnome-42/</guid>
+      <description>击败了 Arch 和 Fedora，Clear Linux 的最新版本提供了 GNOME 42 的稳定版本。</description>
+    </item>
+    
+    <item>
+      <title>GNOME 42 发布：深色模式、新的截图界面</title>
+      <link>https://lkxed.github.io/posts/gnome-42-release/</link>
+      <pubDate>Fri, 25 Mar 2022 09:16:09 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-42-release/</guid>
+      <description>GNOME 42 终于到来了，它带来了急需的视觉升级和功能改进。</description>
+    </item>
+    
+    <item>
+      <title>C4C Ubuntu：基督教信徒的 Linux 发行版</title>
+      <link>https://lkxed.github.io/posts/c4c-linux-distro-revived/</link>
+      <pubDate>Mon, 21 Mar 2022 08:40:28 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/c4c-linux-distro-revived/</guid>
+      <description>Computers4Christians 项目以定制发行版的形式进行了改革，该发行版为有基督教信仰的人提供了软件。</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 有了一个「怪怪的」新标志</title>
+      <link>https://lkxed.github.io/posts/ubuntu-new-logo/</link>
+      <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/ubuntu-new-logo/</guid>
+      <description>Ubuntu 重新设计了它的标志，但是并非每个人都会喜欢它。</description>
+    </item>
+    
+  </channel>
+</rss>
