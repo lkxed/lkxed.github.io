@@ -18,10 +18,10 @@
     
     <item>
       <title>Redis 数据类型：简介</title>
-      <link>https://lkxed.github.io/posts/redis-data-types/</link>
+      <link>https://lkxed.github.io/posts/redis-data-types-intro/</link>
       <pubDate>Sun, 01 May 2022 18:58:16 +0800</pubDate>
       
-      <guid>https://lkxed.github.io/posts/redis-data-types/</guid>
+      <guid>https://lkxed.github.io/posts/redis-data-types-intro/</guid>
       <description>本文简单介绍了 Redis 支持的诸多数据类型。</description>
     </item>
     
