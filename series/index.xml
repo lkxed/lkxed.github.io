@@ -6,22 +6,22 @@
     <description>Recent content in 系列 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 May 2022 17:25:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 20:26:52 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux 中国</title>
+      <link>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</link>
+      <pubDate>Wed, 04 May 2022 20:26:52 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Redis</title>
       <link>https://lkxed.github.io/series/redis/</link>
       <pubDate>Wed, 04 May 2022 17:25:55 +0800</pubDate>
       
       <guid>https://lkxed.github.io/series/redis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux 中国</title>
-      <link>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</link>
-      <pubDate>Tue, 03 May 2022 23:59:25 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</guid>
       <description></description>
     </item>
     

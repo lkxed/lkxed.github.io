@@ -6,7 +6,16 @@
     <description>Recent content in Linux 中国 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 03 May 2022 23:59:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 20:26:52 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微软加入开放 3D 基金会，参与开源 3D 开发</title>
+      <link>https://lkxed.github.io/posts/microsoft-joins-o3df/</link>
+      <pubDate>Wed, 04 May 2022 20:26:52 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/microsoft-joins-o3df/</guid>
+      <description>抱歉，我才发现这是一篇商业互捧的软文通稿……</description>
+    </item>
+    
     <item>
       <title>埃隆·马斯克开源推特算法的计划存在缺陷</title>
       <link>https://lkxed.github.io/posts/elon-musks-twitter-open-source-flaws/</link>
