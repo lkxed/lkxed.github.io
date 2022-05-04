@@ -6,7 +6,16 @@
     <description>Recent content on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 May 2022 22:56:50 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 23:59:25 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>埃隆·马斯克开源推特算法的计划存在缺陷</title>
+      <link>https://lkxed.github.io/posts/elon-musks-twitter-open-source-flaws/</link>
+      <pubDate>Tue, 03 May 2022 23:59:25 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/elon-musks-twitter-open-source-flaws/</guid>
+      <description>马斯克希望开源推特的算法，是因为他长期以来一直担心该平台有可能进行政治压制。但老实说，即便开源，也不可能达到他的预期效果。专家们担心，这可能反而带来一连串意想不到的问题。</description>
+    </item>
+    
     <item>
       <title>Archinstall：新的菜单系统</title>
       <link>https://lkxed.github.io/posts/archinstall-menu/</link>
