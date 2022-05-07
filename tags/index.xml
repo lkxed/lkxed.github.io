@@ -6,7 +6,43 @@
     <description>Recent content in 标签 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 05 May 2022 20:15:20 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 08:41:40 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>版本发布</title>
+      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Sat, 07 May 2022 08:41:40 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源软件</title>
+      <link>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</link>
+      <pubDate>Sat, 07 May 2022 08:41:40 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>浏览器</title>
+      <link>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
+      <pubDate>Sat, 07 May 2022 08:41:40 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>译文</title>
+      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
+      <pubDate>Sat, 07 May 2022 08:41:40 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>开源传播</title>
       <link>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</link>
@@ -22,15 +58,6 @@
       <pubDate>Thu, 05 May 2022 20:15:20 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>译文</title>
-      <link>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</link>
-      <pubDate>Thu, 05 May 2022 20:15:20 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</guid>
       <description></description>
     </item>
     
@@ -98,15 +125,6 @@
     </item>
     
     <item>
-      <title>版本发布</title>
-      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
-      <pubDate>Mon, 02 May 2022 22:56:50 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://lkxed.github.io/tags/python/</link>
       <pubDate>Mon, 02 May 2022 18:06:47 +0800</pubDate>
@@ -139,15 +157,6 @@
       <pubDate>Mon, 02 May 2022 10:32:33 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/rust/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开源软件</title>
-      <link>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</link>
-      <pubDate>Sun, 01 May 2022 10:27:44 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</guid>
       <description></description>
     </item>
     
@@ -301,15 +310,6 @@
       <pubDate>Sun, 10 Apr 2022 11:00:47 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>浏览器</title>
-      <link>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
-      <pubDate>Sun, 10 Apr 2022 10:39:34 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</guid>
       <description></description>
     </item>
     
