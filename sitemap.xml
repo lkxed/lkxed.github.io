@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lkxed.github.io/posts/firefox-100-release/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
+    <loc>https://lkxed.github.io/posts/elementary-os-7-announcement/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-05-07T09:00:35+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/firefox-100-release/</loc>
     <lastmod>2022-05-07T08:41:40+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
@@ -20,25 +41,10 @@
     <loc>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2022-05-07T08:41:40+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
-    <lastmod>2022-05-07T08:41:40+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/microsofts-3d-movie-maker-open-source/</loc>
     <lastmod>2022-05-05T20:15:20+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</loc>
-    <lastmod>2022-05-05T20:15:20+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2022-05-05T20:15:20+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E8%A7%82%E7%82%B9/</loc>
@@ -75,9 +81,6 @@
     <lastmod>2022-05-03T23:59:25+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/archinstall-menu/</loc>
-    <lastmod>2022-05-02T22:56:50+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
     <lastmod>2022-05-02T22:56:50+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/python/</loc>
