@@ -8,7 +8,7 @@
     <language>zh-CN</language>
     <lastBuildDate>Sun, 08 May 2022 08:50:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>使用 Go 和树莓派排查 WiFi 问题</title>
+      <title>Go 实战：结合树莓派排查 WiFi 问题</title>
       <link>https://lkxed.github.io/posts/troubleshoot-wifi-go-raspberry-pi/</link>
       <pubDate>Sun, 08 May 2022 08:50:37 +0800</pubDate>
       
