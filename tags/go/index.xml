@@ -6,7 +6,16 @@
     <description>Recent content in Go on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Apr 2022 17:21:04 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 08:50:37 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Go 和树莓派排查 WiFi 问题</title>
+      <link>https://lkxed.github.io/posts/troubleshoot-wifi-go-raspberry-pi/</link>
+      <pubDate>Sun, 08 May 2022 08:50:37 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/troubleshoot-wifi-go-raspberry-pi/</guid>
+      <description>实现一个 WiFi 扫描器玩玩～</description>
+    </item>
+    
     <item>
       <title>我最喜欢的 Go 构建选项</title>
       <link>https://lkxed.github.io/posts/go-build-options/</link>
