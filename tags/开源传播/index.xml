@@ -6,7 +6,16 @@
     <description>Recent content in 开源传播 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 May 2022 11:24:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 09:19:30 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源开发者创建首个支持维护者的基金</title>
+      <link>https://lkxed.github.io/posts/first-fund-support-open-source-maintainers/</link>
+      <pubDate>Wed, 11 May 2022 09:19:30 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/first-fund-support-open-source-maintainers/</guid>
+      <description>第一年该基金将向那些为当下数字基础设施奠定基础，却没有得到补偿的开源维护者，提供 5 万美元的资助。</description>
+    </item>
+    
     <item>
       <title>我如何通过开源来发展我的产品经理职业</title>
       <link>https://lkxed.github.io/posts/product-management-open-source/</link>

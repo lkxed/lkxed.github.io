@@ -6,7 +6,16 @@
     <description>Recent content in 译文 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 May 2022 10:47:11 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 May 2022 09:19:30 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源开发者创建首个支持维护者的基金</title>
+      <link>https://lkxed.github.io/posts/first-fund-support-open-source-maintainers/</link>
+      <pubDate>Wed, 11 May 2022 09:19:30 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/first-fund-support-open-source-maintainers/</guid>
+      <description>第一年该基金将向那些为当下数字基础设施奠定基础，却没有得到补偿的开源维护者，提供 5 万美元的资助。</description>
+    </item>
+    
     <item>
       <title>Tails 5.0 发布：基于 Debian 11，附带新的 Kleopatra 工具</title>
       <link>https://lkxed.github.io/posts/tails-5-0-release/</link>
