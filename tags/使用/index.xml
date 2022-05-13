@@ -6,7 +6,16 @@
     <description>Recent content in 使用 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 04 May 2022 17:25:55 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 May 2022 10:49:27 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macOS 聚焦搜索：使用 mdutil 命令来开启、关闭或重建索引</title>
+      <link>https://lkxed.github.io/posts/mac-os-spotlight/</link>
+      <pubDate>Fri, 13 May 2022 10:49:27 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/mac-os-spotlight/</guid>
+      <description>拆机清灰之后，mds_stores 进程的 CPU 使用率居高不下。在网络上查询后得知，该进程为 Spotlight 的工作进程。接着又寻找原因及解决方案，并学习了 mdutil 命令的使用，遂此总结。&amp;quot;</description>
+    </item>
+    
     <item>
       <title>Redis 发布/订阅：简介及使用</title>
       <link>https://lkxed.github.io/posts/redis-pub-sub/</link>

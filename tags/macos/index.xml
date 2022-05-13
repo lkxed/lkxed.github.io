@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>macOS on 六开箱</title>
+    <link>https://lkxed.github.io/tags/macos/</link>
+    <description>Recent content in macOS on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 May 2022 10:49:27 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>macOS 聚焦搜索：使用 mdutil 命令来开启、关闭或重建索引</title>
+      <link>https://lkxed.github.io/posts/mac-os-spotlight/</link>
+      <pubDate>Fri, 13 May 2022 10:49:27 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/mac-os-spotlight/</guid>
+      <description>拆机清灰之后，mds_stores 进程的 CPU 使用率居高不下。在网络上查询后得知，该进程为 Spotlight 的工作进程。接着又寻找原因及解决方案，并学习了 mdutil 命令的使用，遂此总结。&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>
