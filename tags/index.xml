@@ -107,20 +107,29 @@
     </item>
     
     <item>
-      <title>_tag_</title>
-      <link>https://lkxed.github.io/tags/_tag_/</link>
+      <title>Fedora</title>
+      <link>https://lkxed.github.io/tags/fedora/</link>
       <pubDate>Wed, 11 May 2022 16:22:27 +0800</pubDate>
       
-      <guid>https://lkxed.github.io/tags/_tag_/</guid>
+      <guid>https://lkxed.github.io/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux 发行版</title>
       <link>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</link>
-      <pubDate>Wed, 11 May 2022 12:17:45 +0800</pubDate>
+      <pubDate>Wed, 11 May 2022 16:22:27 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>版本发布</title>
+      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
+      <pubDate>Wed, 11 May 2022 16:22:27 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
       <description></description>
     </item>
     
@@ -130,15 +139,6 @@
       <pubDate>Wed, 11 May 2022 09:19:30 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E4%BC%A0%E6%92%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>版本发布</title>
-      <link>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</link>
-      <pubDate>Mon, 09 May 2022 10:47:11 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83/</guid>
       <description></description>
     </item>
     
@@ -440,6 +440,15 @@
     </item>
     
     <item>
+      <title>Deepin</title>
+      <link>https://lkxed.github.io/tags/deepin/</link>
+      <pubDate>Sun, 03 Apr 2022 08:49:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/deepin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>邮件</title>
       <link>https://lkxed.github.io/tags/%E9%82%AE%E4%BB%B6/</link>
       <pubDate>Sat, 02 Apr 2022 09:06:51 +0800</pubDate>
@@ -481,6 +490,15 @@
       <pubDate>Sun, 20 Mar 2022 08:51:36 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/awk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://lkxed.github.io/tags/ubuntu/</link>
+      <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
