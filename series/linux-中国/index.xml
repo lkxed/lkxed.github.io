@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>deb-get：目标是替代 apt-get，专用于安装第三方 deb 包</title>
+      <link>https://lkxed.github.io/posts/deb-get-ubuntu/</link>
+      <pubDate>Wed, 11 May 2022 12:17:45 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deb-get-ubuntu/</guid>
+      <description>这是一个有趣的工具，它可以替代 apt-get 来安装 Ubuntu 上的第三方 deb 包。它应该能帮为你节省时间！</description>
+    </item>
+    
+    <item>
       <title>开源开发者创建首个支持维护者的基金</title>
       <link>https://lkxed.github.io/posts/first-fund-support-open-source-maintainers/</link>
       <pubDate>Wed, 11 May 2022 09:19:30 +0800</pubDate>

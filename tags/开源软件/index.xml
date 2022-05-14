@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>deb-get：目标是替代 apt-get，专用于安装第三方 deb 包</title>
+      <link>https://lkxed.github.io/posts/deb-get-ubuntu/</link>
+      <pubDate>Wed, 11 May 2022 12:17:45 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/deb-get-ubuntu/</guid>
+      <description>这是一个有趣的工具，它可以替代 apt-get 来安装 Ubuntu 上的第三方 deb 包。它应该能帮为你节省时间！</description>
+    </item>
+    
+    <item>
       <title>Firefox 100 发布：带来诸多有趣更新，纪念 17 年的发展历程</title>
       <link>https://lkxed.github.io/posts/firefox-100-release/</link>
       <pubDate>Sat, 07 May 2022 08:41:40 +0800</pubDate>
