@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/binary-prefix/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-05-16T16:48:26+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/tags/macos/</loc>
     <lastmod>2022-05-13T10:49:27+08:00</lastmod>
   </url><url>
@@ -11,28 +32,13 @@
     <loc>https://lkxed.github.io/posts/mac-os-spotlight/</loc>
     <lastmod>2022-05-13T10:49:27+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-05-13T10:49:27+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2022-05-13T10:49:27+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2022-05-13T10:49:27+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-05-13T10:49:27+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-05-13T10:49:27+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
-    <lastmod>2022-05-13T10:49:27+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-05-13T10:49:27+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
     <lastmod>2022-05-13T10:49:27+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/docker/</loc>
