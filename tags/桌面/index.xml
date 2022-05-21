@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>GNOME 新终端程序尝鲜</title>
+      <link>https://lkxed.github.io/posts/gnome-console/</link>
+      <pubDate>Sun, 15 May 2022 09:43:24 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/gnome-console/</guid>
+      <description>这个新应用程序的目标是提供一个“简单的、用户友好的终端模拟器”。它确实“简单”，因为它没有提供以往 GNOME 终端下用户习惯的许多功能。</description>
+    </item>
+    
+    <item>
       <title>Linux Mint Cinnamon：禁用动画以减少卡顿</title>
       <link>https://lkxed.github.io/posts/disable-animations-cinnamon-desktop/</link>
       <pubDate>Fri, 22 Apr 2022 12:11:09 +0800</pubDate>
