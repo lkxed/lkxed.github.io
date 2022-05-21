@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lkxed.github.io/tags/go/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/creating-random-secure-passwords-go/</loc>
+    <lastmod>2022-05-21T15:25:17+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-05-20T11:22:21+08:00</lastmod>
@@ -14,25 +35,10 @@
     <loc>https://lkxed.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-05-20T11:22:21+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-05-20T11:22:21+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/posts/activate-linux/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
-    <lastmod>2022-05-20T11:22:21+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-05-20T11:22:21+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/</loc>
@@ -121,9 +127,6 @@
   </url><url>
     <loc>https://lkxed.github.io/tags/%E8%81%8C%E4%B8%9A/</loc>
     <lastmod>2022-05-08T11:24:23+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/go/</loc>
-    <lastmod>2022-05-08T08:50:37+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/troubleshoot-wifi-go-raspberry-pi/</loc>
     <lastmod>2022-05-08T08:50:37+08:00</lastmod>
