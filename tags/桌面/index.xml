@@ -6,7 +6,16 @@
     <description>Recent content in 桌面 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Apr 2022 12:11:09 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 11:22:21 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%A1%8C%E9%9D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何在 Linux 桌面中启用 “激活 Linux” 水印通知</title>
+      <link>https://lkxed.github.io/posts/activate-linux/</link>
+      <pubDate>Fri, 20 May 2022 11:22:21 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/activate-linux/</guid>
+      <description>“激活 Windows” 水印已移植到 Linux。</description>
+    </item>
+    
     <item>
       <title>Linux Mint Cinnamon：禁用动画以减少卡顿</title>
       <link>https://lkxed.github.io/posts/disable-animations-cinnamon-desktop/</link>
