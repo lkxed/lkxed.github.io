@@ -6,7 +6,16 @@
     <description>Recent content in 新闻 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 09 May 2022 10:47:11 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 May 2022 08:16:35 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inkscape 1.2 版本发布：Adobe Illustrator 的替代品</title>
+      <link>https://lkxed.github.io/posts/inkscape-1-2-release/</link>
+      <pubDate>Fri, 20 May 2022 08:16:35 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/inkscape-1-2-release/</guid>
+      <description>Inkscape 1.2 是一个激动人心的更新，包含许多有用的改进和新增功能。试一试吧！</description>
+    </item>
+    
     <item>
       <title>Tails 5.0 发布：基于 Debian 11，附带新的 Kleopatra 工具</title>
       <link>https://lkxed.github.io/posts/tails-5-0-release/</link>
