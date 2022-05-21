@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>开源新手指南</title>
+      <link>https://lkxed.github.io/posts/beginners-guide-to-open-source/</link>
+      <pubDate>Mon, 16 May 2022 14:18:53 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/beginners-guide-to-open-source/</guid>
+      <description>新手友好的开源指南：什么是开源？贡献于开源的好处？如何开始贡献？</description>
+    </item>
+    
+    <item>
       <title>macOS 聚焦搜索：使用 mdutil 命令来开启、关闭或重建索引</title>
       <link>https://lkxed.github.io/posts/mac-os-spotlight/</link>
       <pubDate>Fri, 13 May 2022 10:49:27 +0800</pubDate>

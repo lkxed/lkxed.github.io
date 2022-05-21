@@ -6,7 +6,16 @@
     <description>Recent content in 观点 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 May 2022 11:24:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%A7%82%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 May 2022 14:18:53 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E8%A7%82%E7%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开源新手指南</title>
+      <link>https://lkxed.github.io/posts/beginners-guide-to-open-source/</link>
+      <pubDate>Mon, 16 May 2022 14:18:53 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/beginners-guide-to-open-source/</guid>
+      <description>新手友好的开源指南：什么是开源？贡献于开源的好处？如何开始贡献？</description>
+    </item>
+    
     <item>
       <title>我如何通过开源来发展我的产品经理职业</title>
       <link>https://lkxed.github.io/posts/product-management-open-source/</link>

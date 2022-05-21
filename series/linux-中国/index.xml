@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>开源新手指南</title>
+      <link>https://lkxed.github.io/posts/beginners-guide-to-open-source/</link>
+      <pubDate>Mon, 16 May 2022 14:18:53 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/beginners-guide-to-open-source/</guid>
+      <description>新手友好的开源指南：什么是开源？贡献于开源的好处？如何开始贡献？</description>
+    </item>
+    
+    <item>
       <title>Docker Desktop：现已支持 Linux</title>
       <link>https://lkxed.github.io/posts/docker-desktop-linux/</link>
       <pubDate>Thu, 12 May 2022 23:10:06 +0800</pubDate>
