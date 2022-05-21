@@ -6,7 +6,16 @@
     <description>Recent content in Linux 发行版 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 May 2022 16:22:27 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 08:25:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fudgie？令人惊叹的 Budgie 桌面即将登陆 Fedora Linux</title>
+      <link>https://lkxed.github.io/posts/fudgie-fedora-budgie-announcement/</link>
+      <pubDate>Thu, 19 May 2022 08:25:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/fudgie-fedora-budgie-announcement/</guid>
+      <description>Fedora 用户也将能够享受 Budgie 桌面环境的现代体验。</description>
+    </item>
+    
     <item>
       <title>Fedora Linux 36 发布</title>
       <link>https://lkxed.github.io/posts/announcing-fedora-36/</link>
