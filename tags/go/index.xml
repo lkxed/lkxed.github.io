@@ -6,7 +6,16 @@
     <description>Recent content in Go on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 21 May 2022 15:25:17 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 May 2022 11:55:18 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在 Go 中实现一个支持并发的 TCP 服务端</title>
+      <link>https://lkxed.github.io/posts/building-concurrent-tcp-server-go/</link>
+      <pubDate>Sun, 22 May 2022 11:55:18 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/building-concurrent-tcp-server-go/</guid>
+      <description>仅用大约 65 行代码，开发一个用于生成随机数、支持并发的 TCP 服务端。</description>
+    </item>
+    
     <item>
       <title>在 Go 中生成随机的安全密码</title>
       <link>https://lkxed.github.io/posts/creating-random-secure-passwords-go/</link>
