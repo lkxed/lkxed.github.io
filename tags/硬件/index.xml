@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>硬件 on 六开箱</title>
+    <link>https://lkxed.github.io/tags/%E7%A1%AC%E4%BB%B6/</link>
+    <description>Recent content in 硬件 on 六开箱</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 28 May 2022 18:23:02 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%A1%AC%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>System76 与惠普合作为开发者提供功能强大的 Linux 笔记本电脑</title>
+      <link>https://lkxed.github.io/posts/hp-dev-one-system76/</link>
+      <pubDate>Sat, 28 May 2022 18:23:02 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/hp-dev-one-system76/</guid>
+      <description>惠普正在以开箱即用的 Pop!_OS 为特色进入 Linux 硬件市场，貌似有点激动人心？还是先来看一看吧！</description>
+    </item>
+    
+  </channel>
+</rss>
