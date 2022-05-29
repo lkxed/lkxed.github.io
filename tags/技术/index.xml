@@ -6,7 +6,16 @@
     <description>Recent content in 技术 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 20 May 2022 11:22:21 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 16:16:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git 教程：重命名分支、删除分支、查看分支作者</title>
+      <link>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</link>
+      <pubDate>Wed, 25 May 2022 16:16:23 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</guid>
+      <description>掌握管理本地/远程分支时最常见的 Git 任务。</description>
+    </item>
+    
     <item>
       <title>如何在 Linux 桌面中启用 “激活 Linux” 水印通知</title>
       <link>https://lkxed.github.io/posts/activate-linux/</link>

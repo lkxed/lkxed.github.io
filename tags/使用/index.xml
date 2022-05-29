@@ -6,7 +6,16 @@
     <description>Recent content in 使用 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 May 2022 09:43:24 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 May 2022 16:16:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git 教程：重命名分支、删除分支、查看分支作者</title>
+      <link>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</link>
+      <pubDate>Wed, 25 May 2022 16:16:23 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</guid>
+      <description>掌握管理本地/远程分支时最常见的 Git 任务。</description>
+    </item>
+    
     <item>
       <title>GNOME 新终端程序尝鲜</title>
       <link>https://lkxed.github.io/posts/gnome-console/</link>

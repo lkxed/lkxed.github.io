@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Git 教程：重命名分支、删除分支、查看分支作者</title>
+      <link>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</link>
+      <pubDate>Wed, 25 May 2022 16:16:23 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</guid>
+      <description>掌握管理本地/远程分支时最常见的 Git 任务。</description>
+    </item>
+    
+    <item>
       <title>在 Go 中实现一个支持并发的 TCP 服务端</title>
       <link>https://lkxed.github.io/posts/building-concurrent-tcp-server-go/</link>
       <pubDate>Sun, 22 May 2022 11:55:18 +0800</pubDate>
