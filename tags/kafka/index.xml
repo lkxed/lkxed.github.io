@@ -6,7 +6,16 @@
     <description>Recent content in Kafka on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Mar 2021 18:04:19 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 14:55:58 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka 设计：持久化</title>
+      <link>https://lkxed.github.io/posts/kafka-design-persistence/</link>
+      <pubDate>Mon, 30 May 2022 14:55:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-design-persistence/</guid>
+      <description>Kafka 支持消息的持久化，并在持久化的同时，保证了消息系统的高效运作，它是怎么做到的呢？让我们来看一看吧！</description>
+    </item>
+    
     <item>
       <title>Kafka 性能测试脚本：简介与使用</title>
       <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>

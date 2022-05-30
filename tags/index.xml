@@ -6,7 +6,34 @@
     <description>Recent content in 标签 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 29 May 2022 17:41:50 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 14:55:58 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka</title>
+      <link>https://lkxed.github.io/tags/kafka/</link>
+      <pubDate>Mon, 30 May 2022 14:55:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>消息队列</title>
+      <link>https://lkxed.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</link>
+      <pubDate>Mon, 30 May 2022 14:55:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>原理</title>
+      <link>https://lkxed.github.io/tags/%E5%8E%9F%E7%90%86/</link>
+      <pubDate>Mon, 30 May 2022 14:55:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/tags/%E5%8E%9F%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>开源软件</title>
       <link>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</link>
@@ -269,15 +296,6 @@
     </item>
     
     <item>
-      <title>消息队列</title>
-      <link>https://lkxed.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</link>
-      <pubDate>Wed, 04 May 2022 17:25:55 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Python</title>
       <link>https://lkxed.github.io/tags/python/</link>
       <pubDate>Mon, 02 May 2022 18:06:47 +0800</pubDate>
@@ -526,15 +544,6 @@
       <pubDate>Sat, 19 Mar 2022 11:48:43 +0800</pubDate>
       
       <guid>https://lkxed.github.io/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kafka</title>
-      <link>https://lkxed.github.io/tags/kafka/</link>
-      <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>
-      
-      <guid>https://lkxed.github.io/tags/kafka/</guid>
       <description></description>
     </item>
     
