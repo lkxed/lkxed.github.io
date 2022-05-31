@@ -22,7 +22,7 @@
       <pubDate>Sun, 29 May 2022 14:00:58 +0800</pubDate>
       
       <guid>https://lkxed.github.io/posts/kafka-design-motivation/</guid>
-      <description>Kafka 于 2011 年有 LinkedIn 公司开源，彼时，技术界已有成熟的消息系统，为什么还要开发一个新的呢？</description>
+      <description>Kafka 于 2011 年由 LinkedIn 公司开源，彼时，技术界已有成熟的消息系统，为什么还要开发一个新的呢？</description>
     </item>
     
     <item>
