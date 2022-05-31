@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Kafka 设计：初衷</title>
+      <link>https://lkxed.github.io/posts/kafka-design-motivation/</link>
+      <pubDate>Sun, 29 May 2022 14:00:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-design-motivation/</guid>
+      <description>Kafka 于 2011 年有 LinkedIn 公司开源，彼时，技术界已有成熟的消息系统，为什么还要开发一个新的呢？</description>
+    </item>
+    
+    <item>
       <title>Kafka 性能测试脚本：简介与使用</title>
       <link>https://lkxed.github.io/posts/kafka-perf-test-scripts/</link>
       <pubDate>Thu, 25 Mar 2021 18:04:19 +0800</pubDate>

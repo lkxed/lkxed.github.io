@@ -6,7 +6,16 @@
     <description>Recent content in 开源软件 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 29 May 2022 17:41:50 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 14:55:58 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka 设计：持久化</title>
+      <link>https://lkxed.github.io/posts/kafka-design-persistence/</link>
+      <pubDate>Mon, 30 May 2022 14:55:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-design-persistence/</guid>
+      <description>Kafka 支持消息的持久化，并在持久化的同时，保证了消息系统的高效运作，它是怎么做到的呢？让我们来看一看吧！</description>
+    </item>
+    
     <item>
       <title>DeepMind 的开源物理引擎 MuJoCo 已在 GitHub 发布</title>
       <link>https://lkxed.github.io/posts/deepminds-mujoco-github/</link>
@@ -14,6 +23,15 @@
       
       <guid>https://lkxed.github.io/posts/deepminds-mujoco-github/</guid>
       <description>DeepMind 声称 MuJoCo 的开源计划已完成，它的整个代码库可在 GitHub 上获得。</description>
+    </item>
+    
+    <item>
+      <title>Kafka 设计：初衷</title>
+      <link>https://lkxed.github.io/posts/kafka-design-motivation/</link>
+      <pubDate>Sun, 29 May 2022 14:00:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-design-motivation/</guid>
+      <description>Kafka 于 2011 年有 LinkedIn 公司开源，彼时，技术界已有成熟的消息系统，为什么还要开发一个新的呢？</description>
     </item>
     
     <item>

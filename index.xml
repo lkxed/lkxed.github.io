@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>Kafka 设计：初衷</title>
+      <link>https://lkxed.github.io/posts/kafka-design-motivation/</link>
+      <pubDate>Sun, 29 May 2022 14:00:58 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/kafka-design-motivation/</guid>
+      <description>Kafka 于 2011 年有 LinkedIn 公司开源，彼时，技术界已有成熟的消息系统，为什么还要开发一个新的呢？</description>
+    </item>
+    
+    <item>
       <title>System76 与惠普合作为开发者提供功能强大的 Linux 笔记本电脑</title>
       <link>https://lkxed.github.io/posts/hp-dev-one-system76/</link>
       <pubDate>Sat, 28 May 2022 18:23:02 +0800</pubDate>
@@ -458,7 +467,7 @@
     </item>
     
     <item>
-      <title>Java String 源码阅读：查找子串</title>
+      <title>Java 源码阅读：String 查找子串</title>
       <link>https://lkxed.github.io/posts/java-string-search/</link>
       <pubDate>Sun, 10 Apr 2022 23:11:25 +0800</pubDate>
       
