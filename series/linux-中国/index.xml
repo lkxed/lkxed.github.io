@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>在 Go 中复制文件的三种方法</title>
+      <link>https://lkxed.github.io/posts/copying-files-go/</link>
+      <pubDate>Tue, 31 May 2022 15:34:27 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/copying-files-go/</guid>
+      <description>本文是 Go 系列的第三篇文章，我将介绍三种最流行的复制文件的方法。</description>
+    </item>
+    
+    <item>
       <title>Tails 警告用户不要使用 Tor 浏览器：原因如下！</title>
       <link>https://lkxed.github.io/posts/tails-tor-browser/</link>
       <pubDate>Mon, 30 May 2022 16:09:14 +0800</pubDate>

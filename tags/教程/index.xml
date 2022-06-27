@@ -6,7 +6,16 @@
     <description>Recent content in 教程 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 May 2022 16:16:23 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 May 2022 15:34:27 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在 Go 中复制文件的三种方法</title>
+      <link>https://lkxed.github.io/posts/copying-files-go/</link>
+      <pubDate>Tue, 31 May 2022 15:34:27 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/copying-files-go/</guid>
+      <description>本文是 Go 系列的第三篇文章，我将介绍三种最流行的复制文件的方法。</description>
+    </item>
+    
     <item>
       <title>Git 教程：重命名分支、删除分支、查看分支作者</title>
       <link>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</link>
