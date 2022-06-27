@@ -6,7 +6,16 @@
     <description>Recent content in 网络安全 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 02 May 2022 18:06:47 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 09:44:03 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProtonMail 改名为 “Proton”，致力于提供一个隐私生态系统</title>
+      <link>https://lkxed.github.io/posts/protonmail-now-proton/</link>
+      <pubDate>Mon, 30 May 2022 09:44:03 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/protonmail-now-proton/</guid>
+      <description>ProtonMail 宣布了重塑后的品牌，包括新网站、新名称、新的定价计划、新的 UI 和其他变化。</description>
+    </item>
+    
     <item>
       <title>在 Python 中使用机器学习来检测钓鱼链接</title>
       <link>https://lkxed.github.io/posts/detect-phishing-python-machine-learning/</link>
