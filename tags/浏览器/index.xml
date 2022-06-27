@@ -6,7 +6,16 @@
     <description>Recent content in 浏览器 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 07 May 2022 08:41:40 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 16:09:14 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tails 警告用户不要使用 Tor 浏览器：原因如下！</title>
+      <link>https://lkxed.github.io/posts/tails-tor-browser/</link>
+      <pubDate>Mon, 30 May 2022 16:09:14 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/tails-tor-browser/</guid>
+      <description>Tails 5.1 将针对“可绕过 Tor 浏览器安全措施的危险漏洞”提供关键修复。以下是它的全部内容。</description>
+    </item>
+    
     <item>
       <title>Firefox 100 发布：带来诸多有趣更新，纪念 17 年的发展历程</title>
       <link>https://lkxed.github.io/posts/firefox-100-release/</link>
