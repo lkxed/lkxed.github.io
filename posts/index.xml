@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Go 数组和切片的介绍</title>
+      <link>https://lkxed.github.io/posts/introduction-go-arrays-and-slices/</link>
+      <pubDate>Thu, 02 Jun 2022 10:57:49 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/introduction-go-arrays-and-slices/</guid>
+      <description>了解使用数组和切片在 Go 中存储数据的优缺点，以及为什么其中一个更好。</description>
+    </item>
+    
+    <item>
       <title>基于 TypeScript 的无头内容管理系统 “Payload” 现已开源</title>
       <link>https://lkxed.github.io/posts/payload-open-source/</link>
       <pubDate>Wed, 01 Jun 2022 09:40:31 +0800</pubDate>

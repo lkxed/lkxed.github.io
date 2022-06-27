@@ -6,7 +6,16 @@
     <description>Recent content in 编程语言 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 Apr 2022 12:14:42 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jun 2022 10:57:49 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go 数组和切片的介绍</title>
+      <link>https://lkxed.github.io/posts/introduction-go-arrays-and-slices/</link>
+      <pubDate>Thu, 02 Jun 2022 10:57:49 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/introduction-go-arrays-and-slices/</guid>
+      <description>了解使用数组和切片在 Go 中存储数据的优缺点，以及为什么其中一个更好。</description>
+    </item>
+    
     <item>
       <title>C 语言：发展简史</title>
       <link>https://lkxed.github.io/posts/how-c-programming-language-has-grown/</link>

@@ -29,14 +29,23 @@
     <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-06-27T09:25:26+08:00</lastmod>
   </url><url>
+    <loc>https://lkxed.github.io/tags/go/</loc>
+    <lastmod>2022-06-02T10:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/introduction-go-arrays-and-slices/</loc>
+    <lastmod>2022-06-02T10:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
+    <lastmod>2022-06-02T10:57:49+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-06-02T10:57:49+08:00</lastmod>
+  </url><url>
     <loc>https://lkxed.github.io/posts/payload-open-source/</loc>
     <lastmod>2022-06-01T09:40:31+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2022-06-01T09:40:31+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/go/</loc>
-    <lastmod>2022-05-31T15:34:27+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E7%A7%AF%E6%B0%B4/</loc>
     <lastmod>2022-05-31T15:34:27+08:00</lastmod>
@@ -96,9 +105,6 @@
     <lastmod>2022-05-25T16:16:23+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/git-branch-rename-delete-find-author/</loc>
-    <lastmod>2022-05-25T16:16:23+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2022-05-25T16:16:23+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/%E4%BD%BF%E7%94%A8/</loc>
@@ -288,9 +294,6 @@
     <lastmod>2022-04-25T12:14:42+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/how-c-programming-language-has-grown/</loc>
-    <lastmod>2022-04-25T12:14:42+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2022-04-25T12:14:42+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/redis-persistence-pros-cons/</loc>
