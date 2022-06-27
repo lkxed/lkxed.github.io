@@ -6,7 +6,16 @@
     <description>Recent content in Linux 中国 on 六开箱</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 May 2022 16:09:14 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 09:25:26 +0800</lastBuildDate><atom:link href="https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plex 桌面播放器现已支持 Linux</title>
+      <link>https://lkxed.github.io/posts/plex-desktop-linux/</link>
+      <pubDate>Mon, 27 Jun 2022 09:25:26 +0800</pubDate>
+      
+      <guid>https://lkxed.github.io/posts/plex-desktop-linux/</guid>
+      <description>Plex.tv 终于增加了 Linux 桌面版本和全新的 HTPC 应用。不过，它目前只提供了 Snap 包。</description>
+    </item>
+    
     <item>
       <title>Tails 警告用户不要使用 Tor 浏览器：原因如下！</title>
       <link>https://lkxed.github.io/posts/tails-tor-browser/</link>

@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/series/linux-%E4%B8%AD%E5%9B%BD/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/plex-desktop-linux/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/posts/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/series/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
+    <lastmod>2022-06-27T09:25:26+08:00</lastmod>
+  </url><url>
+    <loc>https://lkxed.github.io/tags/linux-%E5%8F%91%E8%A1%8C%E7%89%88/</loc>
     <lastmod>2022-05-30T16:09:14+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/posts/tails-tor-browser/</loc>
     <lastmod>2022-05-30T16:09:14+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/tags/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2022-05-30T16:09:14+08:00</lastmod>
   </url><url>
-    <loc>https://lkxed.github.io/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
     <loc>https://lkxed.github.io/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/posts/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/series/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E6%96%B0%E9%97%BB/</loc>
-    <lastmod>2022-05-30T16:09:14+08:00</lastmod>
-  </url><url>
-    <loc>https://lkxed.github.io/tags/%E8%AF%91%E6%96%87/</loc>
     <lastmod>2022-05-30T16:09:14+08:00</lastmod>
   </url><url>
     <loc>https://lkxed.github.io/tags/kafka/</loc>
